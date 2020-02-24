@@ -66,7 +66,7 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 163 | [2018/11/11](https://blog.ntnx.jp/entry/2018/11/11/191703) | Nutanix REST API v2 で VM を停止 / 起動してみる。（Python） | o |
 | 162 | [2018/11/06](https://blog.ntnx.jp/entry/2018/11/06/234722) | Nutanix API v2 で VM - AHV の CSV を取得してみる。（Python） | o |
 | 161 | [2018/10/30](https://blog.ntnx.jp/entry/2018/10/30/235548) | Nutanix API v2 で Host stats を取得してみる。（Python での別パターン） | o |
-| 160 | [2018/09/06](https://blog.ntnx.jp/entry/2018/09/06/031952) | 雰囲気でつかむNutanix超入門。 | o |
+| 160 | [2018/09/06](https://blog.ntnx.jp/entry/2018/09/06/031952) | 雰囲気でつかむ Nutanix 超入門。 | o |
 | 159 | [2018/08/04](https://blog.ntnx.jp/entry/2018/08/04/170334) | Nutanix の PowerShell モジュール（Tech Preview）を実行してみる。 | o |
 | 158 | [2018/08/01](https://blog.ntnx.jp/entry/2018/08/01/074640) | Nutanix REST API v3 で VM を停止 / 起動してみる。 | o |
 | 157 | [2018/07/20](https://blog.ntnx.jp/entry/2018/07/20/150356) | AHV で Nested Nutanix CE の VM を作成する。 | o |
