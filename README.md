@@ -5,6 +5,8 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 223 | [2020/02/25](https://blog.ntnx.jp/entry/2020/02/25/013643) | ESXi で Nested Nutanix CE を構成してみる。（ce-2019.11.22-stable 対応版） | o |
+| 222 | [2020/02/24](https://blog.ntnx.jp/entry/2020/02/24/152143) | Nutanix CE 環境構築の流れ。（2020 年版） | o |
 | 221 | [2020/01/30](https://blog.ntnx.jp/entry/2020/01/30/082317) | acli で VM 削除自動化くん。（Bash スクリプト編） | o |
 | 220 | [2019/12/13](https://blog.ntnx.jp/entry/2019/12/13/224156) | Prism の Nutanix REST API のリクエスト内容を確認してみる。（Chrome 編） | o |
 | 219 | [2019/12/12](https://blog.ntnx.jp/entry/2019/12/12/231433) | Nutanix CE の Prism Central をセットアップする。（on ESXi 編） | o |
@@ -88,7 +90,7 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 141 | [2018/03/14](https://blog.ntnx.jp/entry/2018/03/14/080938) | Nutanix CE の ncli で Async DR レプリケーションを実行してみる。 | o |
 | 140 | [2018/03/13](https://blog.ntnx.jp/entry/2018/03/13/080451) | Linux で Nutanix CE の ncli を実行してみる。 | o |
 | 139 | [2018/03/08](https://blog.ntnx.jp/entry/2018/03/08/235719) | Nutanix CE での NTP 設定の様子。（CVM / AHV） |  |
-| 138 | [2018/03/05](https://blog.ntnx.jp/entry/2018/03/05/022159) | ESXi で Nested Nutanix CE を構成してみる。（ce-2018.01.31-stable 対応版） | o |
+| 138 | [2018/03/05](https://blog.ntnx.jp/entry/2018/03/05/022159) | ESXi で Nested Nutanix CE を構成してみる。（ce-2018.01.31-stable 対応版） | x |
 | 137 | [2018/02/24](https://blog.ntnx.jp/entry/2018/02/24/163626) | Nutanix CE ce-2018.01.31-stable を ESXi で起動してみる。 | x |
 | 136 | [2018/02/18](https://blog.ntnx.jp/entry/2018/02/18/234013) | Nutanix CE のブート USB メモリ作成。（macOS 編） | o |
 | 135 | [2018/02/16](https://blog.ntnx.jp/entry/2018/02/16/075920) | Nutanix Cmdlets で PD Replication の完了イベントを取得する。 | o |
@@ -223,6 +225,6 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 6 | [2015/10/23](https://blog.ntnx.jp/entry/2015/10/23/090953) | Nutanix CE セットアップをコマンドラインで。（ncli パート） | o |
 | 5 | [2015/10/20](https://blog.ntnx.jp/entry/2015/10/20/213813) | Nutanix CE の cluster create コマンドの画面出力を眺めてみる。 | x |
 | 4 | [2015/10/20](https://blog.ntnx.jp/entry/2015/10/20/205130) | Nutanix CE マルチノードクラスタを cluster コマンドで構成。 | o |
-| 3 | [2015/10/19](https://blog.ntnx.jp/entry/2015/10/19/224506) | Nutanix CE 環境構築の流れ。 | x |
+| 3 | [2015/10/19](https://blog.ntnx.jp/entry/2015/10/19/224506) | Nutanix CE 環境構築の流れ。（2015 年版） | x |
 | 2 | [2015/10/18](https://blog.ntnx.jp/entry/2015/10/18/235829) | うちの Nested Nutanix 構成。 | x |
 | 1 | [2015/10/16](https://blog.ntnx.jp/entry/2015/10/16/235506) | Nutanix CE 日記、始めました。 | o |
