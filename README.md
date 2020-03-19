@@ -5,7 +5,7 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
-| 225 | [2020/03/19](https://blog.ntnx.jp/entry/2020/03/19/201516) | Nutanix CE に acli で VM を作成してみる。 | o |
+| 226 | [2020/03/19](https://blog.ntnx.jp/entry/2020/03/19/201516) | Nutanix CE に acli で VM を作成してみる。 | o |
 | 225 | [2020/03/15](https://blog.ntnx.jp/entry/2020/03/15/223319) | Nutanix CE の Prism 日本語化について。 | o |
 | 224 | [2020/02/15](https://blog.ntnx.jp/entry/2020/03/15/123712) | Nutanix CE を ncli で初期設定してみる。 | o |
 | 223 | [2020/02/25](https://blog.ntnx.jp/entry/2020/02/25/013643) | ESXi で Nested Nutanix CE を構成してみる。（ce-2019.11.22-stable 対応版） | o |
