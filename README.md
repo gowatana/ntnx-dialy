@@ -8,7 +8,7 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 227 | [2020/03/20](https://blog.ntnx.jp/entry/2020/03/20/144054) | Nutanix CE マルチノードクラスタでの cluster create コマンドの様子。 | o |
 | 226 | [2020/03/19](https://blog.ntnx.jp/entry/2020/03/19/201516) | Nutanix CE に acli で VM を作成してみる。 | o |
 | 225 | [2020/03/15](https://blog.ntnx.jp/entry/2020/03/15/223319) | Nutanix CE の Prism 日本語化について。 | o |
-| 224 | [2020/02/15](https://blog.ntnx.jp/entry/2020/03/15/123712) | Nutanix CE を ncli で初期設定してみる。 | o |
+| 224 | [2020/03/15](https://blog.ntnx.jp/entry/2020/03/15/123712) | Nutanix CE を ncli で初期設定してみる。 | o |
 | 223 | [2020/02/25](https://blog.ntnx.jp/entry/2020/02/25/013643) | ESXi で Nested Nutanix CE を構成してみる。（ce-2019.11.22-stable 対応版） | o |
 | 222 | [2020/02/24](https://blog.ntnx.jp/entry/2020/02/24/152143) | Nutanix CE 環境構築の流れ。（2020 年版） | o |
 | 221 | [2020/01/30](https://blog.ntnx.jp/entry/2020/01/30/082317) | acli で VM 削除自動化くん。（Bash スクリプト編） | o |
