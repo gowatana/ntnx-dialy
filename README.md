@@ -1,10 +1,11 @@
 # NTNX＞日記、投稿一覧
 
-2020/03/19 までの投稿。  
+2020/03/20 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 227 | [2020/03/20](https://blog.ntnx.jp/entry/2020/03/20/144054) | Nutanix CE マルチノードクラスタでの cluster create コマンドの様子。 | o |
 | 226 | [2020/03/19](https://blog.ntnx.jp/entry/2020/03/19/201516) | Nutanix CE に acli で VM を作成してみる。 | o |
 | 225 | [2020/03/15](https://blog.ntnx.jp/entry/2020/03/15/223319) | Nutanix CE の Prism 日本語化について。 | o |
 | 224 | [2020/02/15](https://blog.ntnx.jp/entry/2020/03/15/123712) | Nutanix CE を ncli で初期設定してみる。 | o |
@@ -227,7 +228,7 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 7 | [2015/10/24](https://blog.ntnx.jp/entry/2015/10/24/014729) | Nutanix CE セットアップをコマンドラインで。（acli パート） | x |
 | 6 | [2015/10/23](https://blog.ntnx.jp/entry/2015/10/23/090953) | Nutanix CE セットアップをコマンドラインで。（ncli パート） | x |
 | 5 | [2015/10/20](https://blog.ntnx.jp/entry/2015/10/20/213813) | Nutanix CE の cluster create コマンドの画面出力を眺めてみる。 | x |
-| 4 | [2015/10/20](https://blog.ntnx.jp/entry/2015/10/20/205130) | Nutanix CE マルチノードクラスタを cluster コマンドで構成。 | o |
+| 4 | [2015/10/20](https://blog.ntnx.jp/entry/2015/10/20/205130) | Nutanix CE マルチノードクラスタを cluster コマンドで構成。 | x |
 | 3 | [2015/10/19](https://blog.ntnx.jp/entry/2015/10/19/224506) | Nutanix CE 環境構築の流れ。（2015 年版） | x |
 | 2 | [2015/10/18](https://blog.ntnx.jp/entry/2015/10/18/235829) | うちの Nested Nutanix 構成。 | x |
 | 1 | [2015/10/16](https://blog.ntnx.jp/entry/2015/10/16/235506) | Nutanix CE 日記、始めました。 | o |
