@@ -1,10 +1,11 @@
 # NTNX＞日記、投稿一覧
 
-2020/03/22 までの投稿。  
+2020/03/23 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 229 | [2020/03/23](https://blog.ntnx.jp/entry/2020/03/23/005003) | Nutanix CE で vDisk のデータ配置を表示してみる。 | o |
 | 228 | [2020/03/22](https://blog.ntnx.jp/entry/2020/03/22/175658) | Nutanix CE でノード削除 → ノード追加してみる。 | o |
 | 227 | [2020/03/20](https://blog.ntnx.jp/entry/2020/03/20/144054) | Nutanix CE マルチノードクラスタでの cluster create コマンドの様子。 | o |
 | 226 | [2020/03/19](https://blog.ntnx.jp/entry/2020/03/19/201516) | Nutanix CE に acli で VM を作成してみる。 | o |
