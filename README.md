@@ -1,10 +1,14 @@
 # NTNX＞日記、投稿一覧
 
-2020/03/23 までの投稿。  
+2020/08/08 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 233 | [2020/07/19](https://blog.ntnx.jp/entry/2020/07/19/165100) | Nutanix CE の Health Check 項目の一覧を取得してみる。（Python & ce-2019.11.22-stable 編） | o |
+| 232 | [2020/05/31](https://blog.ntnx.jp/entry/2020/05/31/194857) | Nutanix の Prism Central 日本語化について。 | o |
+| 231 | [2020/05/31](https://blog.ntnx.jp/entry/2020/05/31/194402) | Xi Leap の Nutanix Test Drive について。 | o |
+| 230 | [2020/04/30](https://blog.ntnx.jp/entry/2020/04/30/235503) | Nutanix CE の Prism ログイン前に #StayAtHome を表示してみる。 | o |
 | 229 | [2020/03/23](https://blog.ntnx.jp/entry/2020/03/23/005003) | Nutanix CE で vDisk のデータ配置を表示してみる。 | o |
 | 228 | [2020/03/22](https://blog.ntnx.jp/entry/2020/03/22/175658) | Nutanix CE でノード削除 → ノード追加してみる。 | o |
 | 227 | [2020/03/20](https://blog.ntnx.jp/entry/2020/03/20/144054) | Nutanix CE マルチノードクラスタでの cluster create コマンドの様子。 | o |
