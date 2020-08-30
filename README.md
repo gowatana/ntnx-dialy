@@ -1,10 +1,13 @@
 # NTNX＞日記、投稿一覧
 
-2020/08/08 までの投稿。  
+2020/08/30 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 236 | [2020/08/30](https://blog.ntnx.jp/entry/2020/08/30/231644) | Nutanix API v2 で VM の IP アドレスを取得してみる。（Python） | o |
+| 235 | [2020/08/30](https://blog.ntnx.jp/entry/2020/08/30/182456) | Nutanix を Python から操作してみる投稿集。 | o |
+| 234 | [2020/08/30](https://blog.ntnx.jp/entry/2020/08/30/153906) | Nutanix AHV に手軽に Linux VM を用意する。（REST API & Python3） | o |
 | 233 | [2020/07/19](https://blog.ntnx.jp/entry/2020/07/19/165100) | Nutanix CE の Health Check 項目の一覧を取得してみる。（Python & ce-2019.11.22-stable 編） | o |
 | 232 | [2020/05/31](https://blog.ntnx.jp/entry/2020/05/31/194857) | Nutanix の Prism Central 日本語化について。 | o |
 | 231 | [2020/05/31](https://blog.ntnx.jp/entry/2020/05/31/194402) | Xi Leap の Nutanix Test Drive について。 | o |
@@ -120,16 +123,16 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 121 | [2017/10/10](https://blog.ntnx.jp/entry/2017/10/10/083900) | Nutanix Cmdlets で Image Service のディスク イメージを取得してみる。 | o |
 | 120 | [2017/10/09](https://blog.ntnx.jp/entry/2017/10/09/110225) | Nutanix CE のタイムスタンプをJSTに変換する。（PowerShell） | o |
 | 119 | [2017/10/09](https://blog.ntnx.jp/entry/2017/10/09/013517) | Nutanix CE で CVM のメモリ割り当てを製品仕様より下げてみる。 | o |
-| 118 | [2017/10/08](https://blog.ntnx.jp/entry/2017/10/08/120248) | Nutanix API v2 で Host stats を取得してみる。（Python） | o |
+| 118 | [2017/10/08](https://blog.ntnx.jp/entry/2017/10/08/120248) | Nutanix API v2 で Host stats を取得してみる。（Python） | x |
 | 117 | [2017/10/06](https://blog.ntnx.jp/entry/2017/10/06/090009) | Nutanix CE で vNIC の IP を設定する。 | o |
 | 116 | [2017/10/04](https://blog.ntnx.jp/entry/2017/10/04/231457) | Nutanix Cmdlets で VM の IP アドレスを取得してみる。 | o |
-| 115 | [2017/10/03](https://blog.ntnx.jp/entry/2017/10/03/020533) | Nutanix API v2 で VM の IP アドレスを取得してみる。 | o |
+| 115 | [2017/10/03](https://blog.ntnx.jp/entry/2017/10/03/020533) | Nutanix API v2 で VM の IP アドレスを取得してみる。 | x |
 | 114 | [2017/09/30](https://blog.ntnx.jp/entry/2017/09/30/215830) | Nutanix CE 上の Oracle を PD スナップショットから復旧してみる。（実行編） |  |
 | 113 | [2017/09/30](https://blog.ntnx.jp/entry/2017/09/30/211512) | Nutanix CE 上の Oracle を PD スナップショットから復旧してみる。（説明編） |  |
 | 112 | [2017/09/27](https://blog.ntnx.jp/entry/2017/09/27/010134) | Nutanix CE の PD スナップショットの 個別 vDisk リストア。 |  |
 | 111 | [2017/09/26](https://blog.ntnx.jp/entry/2017/09/26/090205) | Nutanix CE の Snapshot の種類。（VM / PD） | o |
 | 110 | [2017/09/26](https://blog.ntnx.jp/entry/2017/09/26/001612) | Nutanix CE の Health Check 項目の一覧を取得してみる。（PowerShell 編） | o |
-| 109 | [2017/09/25](https://blog.ntnx.jp/entry/2017/09/25/235225) | Nutanix CE の Health Check 項目の一覧を取得してみる。（Python 編） | o |
+| 109 | [2017/09/25](https://blog.ntnx.jp/entry/2017/09/25/235225) | Nutanix CE の Health Check 項目の一覧を取得してみる。（Python 編） | x |
 | 108 | [2017/09/21](https://blog.ntnx.jp/entry/2017/09/21/235939) | Nutanix Guest Tools 連携で Oracle のスナップショット作成してみる。 |  |
 | 107 | [2017/09/18](https://blog.ntnx.jp/entry/2017/09/18/005214) | Nutanix Guest Tools の Application Consistent snapshots を Linux で使用してみる。 | o |
 | 106 | [2017/09/13](https://blog.ntnx.jp/entry/2017/09/13/235922) | Nutanix CE の VIP のいる CVM を探す。 | o |
