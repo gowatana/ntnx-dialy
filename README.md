@@ -1,10 +1,12 @@
 # NTNX＞日記、投稿一覧
 
-2020/08/30 までの投稿。  
+2020/10/29 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 238 | [2020/10/06](https://blog.ntnx.jp/entry/2020/10/06/224037) | Nutanix CE 5.18 の ISO インストール。（ESXi のネステッド環境） | o |
+| 237 | [2020/09/30](https://blog.ntnx.jp/entry/2020/09/30/235747) | Nutanix CE のバージョンアップ。（2019.11.22 → 2020.09.16） | o |
 | 236 | [2020/08/30](https://blog.ntnx.jp/entry/2020/08/30/231644) | Nutanix API v2 で VM の IP アドレスを取得してみる。（Python） | o |
 | 235 | [2020/08/30](https://blog.ntnx.jp/entry/2020/08/30/182456) | Nutanix を Python から操作してみる投稿集。 | o |
 | 234 | [2020/08/30](https://blog.ntnx.jp/entry/2020/08/30/153906) | Nutanix AHV に手軽に Linux VM を用意する。（REST API & Python3） | o |
