@@ -64,7 +64,7 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 194 | [2018/12/25](https://blog.ntnx.jp/entry/2018/12/25/235025) | Nutanix AHV の VM からディスク イメージを作成する。（Bash） | o |
 | 193 | [2018/12/25](https://blog.ntnx.jp/entry/2018/12/25/034511) | Nutanix AHV の VM Snapshot を Ansible で取得してみる。 | o |
 | 192 | [2018/12/24](https://blog.ntnx.jp/entry/2018/12/24/203033) | Nutanix CE / AHV に Terraform で VM 作成してみる。 | o |
-| 191 | [2018/12/24](https://blog.ntnx.jp/entry/2018/12/24/143549) | Nutanix Guest Tools をインストールしてみる。（ce-2018.05.01-stable / Linux 編） |  |
+| 191 | [2018/12/24](https://blog.ntnx.jp/entry/2018/12/24/143549) | Nutanix Guest Tools をインストールしてみる。（ce-2018.05.01-stable / Linux 編） | o |
 | 190 | [2018/12/23](https://blog.ntnx.jp/entry/2018/12/23/111509) | Nutanix AHV での簡易 VM バックアップ / リストア。 | o |
 | 189 | [2018/12/22](https://blog.ntnx.jp/entry/2018/12/22/222410) | Nutanix AHV で VM を別ストレージ コンテナに移動してみる。 | o |
 | 188 | [2018/12/20](https://blog.ntnx.jp/entry/2018/12/20/082047) | Nutanix CE むけ acli 踏み台を構築してみる。 | o |
