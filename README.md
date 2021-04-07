@@ -1,10 +1,17 @@
 # NTNX＞日記、投稿一覧
 
-2020/12/16 までの投稿。  
+2021/04/07 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 257 | [2021/04/07](https://blog.ntnx.jp/entry/2021/04/07/090254) | Nutanix CE の X-Play で Trello 連携してみる。 | o |
+| 256 | [2021/03/29](https://blog.ntnx.jp/entry/2021/03/29/001056) | Nutanix CE / AHV に Terraform のインストールされた VM 作成してみる。（cloud-init 編） | o |
+| 255 | [2021/02/28](https://blog.ntnx.jp/entry/2021/02/28/230444) | Nutanix CE の AHV で CVM / UVM の違いを見てみる。（cgroups） | o |
+| 254 | [2021/01/31](https://blog.ntnx.jp/entry/2021/01/31/234907) | Nutanix CE の X-Play を使用してみる。 | o |
+| 253 | [2020/12/25](https://blog.ntnx.jp/entry/2020/12/25/024558) | メリークリスマス（Prism Central） | o |
+| 252 | [2020/12/23](https://blog.ntnx.jp/entry/2020/12/23/021010) | Nutanix CE 5.18 で Karbon を有効化してみる。（kubectl / kubeconfig 準備編） | o |
+| 251 | [2020/12/20](https://blog.ntnx.jp/entry/2020/12/20/225407) | Nutanix CE から SNMP Trap を受信してみる。 | o |
 | 250 | [2020/12/16](https://blog.ntnx.jp/entry/2020/12/16/235858) | Nutanix CE から SNMP で情報取得してみる。 | o |
 | 249 | [2020/12/13](https://blog.ntnx.jp/entry/2020/12/13/145328) | Nutanix CE 5.18 で Karbon を有効化してみる。（動作確認 / 2048 ゲーム起動編） | o |
 | 248 | [2020/12/12](https://blog.ntnx.jp/entry/2020/12/12/231247) | Nutanix CE 5.18 で Karbon を有効化してみる。（REST API でのクラスタ作成 / 削除編） | o |
