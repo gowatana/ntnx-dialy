@@ -25,7 +25,7 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 241 | [2020/12/03](https://blog.ntnx.jp/entry/2020/12/03/231115) | Nutanix Meetup Online 20.12 の仮想スイッチ クイズ（回答編） | o |
 | 240 | [2020/12/02](https://blog.ntnx.jp/entry/2020/12/02/223739) | Nutanix CE の管理ネットワーク VLAN ID 設定で理解する AHV の仮想スイッチ。 | o |
 | 239 | [2020/11/20](https://blog.ntnx.jp/entry/2020/11/20/014320) | Nutanix CE 管理ネットワークの VLAN ID を変更してみる。 | o |
-| 238 | [2020/10/06](https://blog.ntnx.jp/entry/2020/10/06/224037) | Nutanix CE 5.18 の ISO インストール。（ESXi のネステッド環境） | o |
+| 238 | [2020/10/06](https://blog.ntnx.jp/entry/2020/10/06/224037) | ESXi で Nested Nutanix CE を構成してみる。（ce-2020.09.16-stable AHV 版） | o |
 | 237 | [2020/09/30](https://blog.ntnx.jp/entry/2020/09/30/235747) | Nutanix CE のバージョンアップ。（2019.11.22 → 2020.09.16） | o |
 | 236 | [2020/08/30](https://blog.ntnx.jp/entry/2020/08/30/231644) | Nutanix API v2 で VM の IP アドレスを取得してみる。（Python） | o |
 | 235 | [2020/08/30](https://blog.ntnx.jp/entry/2020/08/30/182456) | Nutanix を Python から操作してみる投稿集。 | o |
