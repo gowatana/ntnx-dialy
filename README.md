@@ -1,10 +1,11 @@
 # NTNX＞日記、投稿一覧
 
-2021/04/07 までの投稿。  
+2021/04/18 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 258 | [2021/04/18](https://blog.ntnx.jp/entry/2021/04/18/030908) | ESXi 版 Nutanix CE で VAAI を有効化してみる。（ce-2020.09.16-stable / ESXi 7.0） | o |
 | 257 | [2021/04/07](https://blog.ntnx.jp/entry/2021/04/07/090254) | Nutanix CE の X-Play で Trello 連携してみる。 | o |
 | 256 | [2021/03/29](https://blog.ntnx.jp/entry/2021/03/29/001056) | Nutanix CE / AHV に Terraform のインストールされた VM 作成してみる。（cloud-init 編） | o |
 | 255 | [2021/02/28](https://blog.ntnx.jp/entry/2021/02/28/230444) | Nutanix CE の AHV で CVM / UVM の違いを見てみる。（cgroups） | o |
