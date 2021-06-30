@@ -1,10 +1,14 @@
 # NTNX＞日記、投稿一覧
 
-2021/04/18 までの投稿。  
+2021/06/30 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 262 | [2021/06/29](https://blog.ntnx.jp/entry/2021/06/29/231059) | Nutanix CE で admin ユーザのアカウント ロックを観察する。 | o |
+| 261 | [2021/05/31](https://blog.ntnx.jp/entry/2021/05/31/212446) | Nutanix CE / AHV に Ansible のインストールされた VM を作成してみる。（Cloud-init 編） | o |
+| 260 | [2021/05/01](https://blog.ntnx.jp/entry/2021/05/01/141845) | Nutanix の資格認定試験が無料受験できる Voucher 発行してもらいました。 | o |
+| 259 | [2021/04/23](https://blog.ntnx.jp/entry/2021/04/23/030849) | Nutanix v2 API で IPAM IP プールと IP アドレスを確認してみる。（curl + jq） | o |
 | 258 | [2021/04/18](https://blog.ntnx.jp/entry/2021/04/18/030908) | ESXi 版 Nutanix CE で VAAI を有効化してみる。（ce-2020.09.16-stable / ESXi 7.0） | o |
 | 257 | [2021/04/07](https://blog.ntnx.jp/entry/2021/04/07/090254) | Nutanix CE の X-Play で Trello 連携してみる。 | o |
 | 256 | [2021/03/29](https://blog.ntnx.jp/entry/2021/03/29/001056) | Nutanix CE / AHV に Terraform のインストールされた VM 作成してみる。（cloud-init 編） | o |
