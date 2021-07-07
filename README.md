@@ -1,6 +1,6 @@
 # NTNX＞日記、投稿一覧
 
-2021/06/30 までの投稿。  
+2021/07/07 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
@@ -233,7 +233,7 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 37 | [2016/03/21](https://blog.ntnx.jp/entry/2016/03/21/220053) | Nutanix CE でディザスタリカバリ。Part3: Async DR 設定 |  |
 | 36 | [2016/03/21](https://blog.ntnx.jp/entry/2016/03/21/215954) | Nutanix CE でディザスタリカバリ。Part2: Remote Site の設定 |  |
 | 35 | [2016/03/21](https://blog.ntnx.jp/entry/2016/03/21/215853) | Nutanix CE でディザスタリカバリ。Part1: 準備編（Prism） |  |
-| 34 | [2016/03/21](https://blog.ntnx.jp/entry/2016/03/21/215738) | Nutanix CE でディザスタリカバリ。Part0: 準備編（Ravello） |  |
+| 34 | [2016/03/21](https://blog.ntnx.jp/entry/2016/03/21/215738) | Nutanix CE でディザスタリカバリ。Part0: 準備編（Ravello） | x |
 | 33 | [2016/03/20](https://blog.ntnx.jp/entry/2016/03/20/004505) | Nutanix CE の CVM に Yum で RPM 追加。 |  |
 | 32 | [2016/03/15](https://blog.ntnx.jp/entry/2016/03/15/090818) | Nutanix Guest Tools と Cluster IP の通信。 |  |
 | 31 | [2016/03/14](https://blog.ntnx.jp/entry/2016/03/14/235053) | Nutanix Guest Tools を Oracle Linux 7 にインストール。 |  |
