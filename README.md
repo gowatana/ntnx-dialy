@@ -1,10 +1,17 @@
 # NTNX＞日記、投稿一覧
 
-2021/07/07 までの投稿。  
+2021/09/09 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 269 | [2021/08/08](https://blog.ntnx.jp/entry/2021/08/08/172226) | Nutanix CE に Nutanix Files を展開する。（Ansible 編） | o |
+| 268 | [2021/08/04](https://blog.ntnx.jp/entry/2021/08/04/210339) | Nutanix CE に Nutanix Files を展開する。（シングル ノード構築 REST API 編） | o |
+| 267 | [2021/08/04](https://blog.ntnx.jp/entry/2021/08/04/010708) | Nutanix CE の Nutanix Files ファイル サーバーを削除する。（REST API 編） | o |
+| 266 | [2021/08/03](https://blog.ntnx.jp/entry/2021/08/03/002637) | Nutanix CE に Nutanix Files を展開する。（シングル ノード構築 ncli 編） | o |
+| 265 | [2021/08/02](https://blog.ntnx.jp/entry/2021/08/02/081712) | Nutanix CE の Nutanix Files ファイル サーバーを削除する。（ncli 編） | o |
+| 264 | [2021/08/01](https://blog.ntnx.jp/entry/2021/08/01/115725) | Nutanix CE に Nutanix Files を展開する。（シングル ノード構築編） | o |
+| 263 | [2021/07/31](https://blog.ntnx.jp/entry/2021/07/31/181505) | Nutanix CE に Nutanix Files を展開する。（準備編） | o |
 | 262 | [2021/06/29](https://blog.ntnx.jp/entry/2021/06/29/231059) | Nutanix CE で admin ユーザのアカウント ロックを観察する。 | o |
 | 261 | [2021/05/31](https://blog.ntnx.jp/entry/2021/05/31/212446) | Nutanix CE / AHV に Ansible のインストールされた VM を作成してみる。（Cloud-init 編） | o |
 | 260 | [2021/05/01](https://blog.ntnx.jp/entry/2021/05/01/141845) | Nutanix の資格認定試験が無料受験できる Voucher 発行してもらいました。 | o |
