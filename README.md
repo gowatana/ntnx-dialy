@@ -1,10 +1,33 @@
 # NTNX＞日記、投稿一覧
 
-2021/09/09 までの投稿。  
+2021/12/31 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 292 | [2021/12/25](https://blog.ntnx.jp/entry/2021/12/25/214531) | Nutanix CE で NGT インストール済み VM をクローンしてみる。（Oracle Linux 8） | o |
+| 291 | [2021/12/24](https://blog.ntnx.jp/entry/2021/12/24/235727) | Oracle Linux 8 に NGT をインストールしてみる。 | o |
+| 290 | [2021/12/24](https://blog.ntnx.jp/entry/2021/12/24/030902) | Nutanix Prism での VM 名を virsh で表示してみる。 | o |
+| 289 | [2021/12/21](https://blog.ntnx.jp/entry/2021/12/21/234527) | ecli でデフォルトより多くタスク情報を取得してみる。 | o |
+| 288 | [2021/12/19](https://blog.ntnx.jp/entry/2021/12/19/211709) | Nutanix Files の afs コマンド履歴の保存先について。 | o |
+| 287 | [2021/12/19](https://blog.ntnx.jp/entry/2021/12/19/202815) | Nutanix CVM の afs コマンドで FSVM に接続してみる。 | o |
+| 286 | [2021/12/19](https://blog.ntnx.jp/entry/2021/12/19/175846) | Nutanix CE の IPAM で Open vSwitch の様子を見てみる。 | o |
+| 285 | [2021/12/15](https://blog.ntnx.jp/entry/2021/12/15/235626) | Nutanix CE で、IPAM での IP アドレス割り当て予約を確認してみる。 | o |
+| 284 | [2021/12/14](https://blog.ntnx.jp/entry/2021/12/14/100443) | Nutanix CE で、IPAM での IP アドレス割り当ての様子を確認してみる。 | o |
+| 283 | [2021/12/13](https://blog.ntnx.jp/entry/2021/12/13/003244) | Nutanix Files の Quota Policy を ncli で作成してみる。（続編2） | o |
+| 282 | [2021/12/11](https://blog.ntnx.jp/entry/2021/12/11/235711) | Nutanix Files の Quota Policy を ncli で作成してみる。（続編） | o |
+| 281 | [2021/12/10](https://blog.ntnx.jp/entry/2021/12/10/235820) | Nutanix Files の Quota Policy を ncli で作成してみる。 | o |
+| 280 | [2021/12/09](https://blog.ntnx.jp/entry/2021/12/09/015320) | Nutanix Technology Champions 2022 に選ばれました。 | o |
+| 279 | [2021/12/08](https://blog.ntnx.jp/entry/2021/12/08/233147) | Nutanix Files FSVM に SSH してみる。（微妙端末 編） | o |
+| 278 | [2021/12/07](https://blog.ntnx.jp/entry/2021/12/07/235406) | Nutanix Files FSVM に SSH してみる。（rp_filter 編） | o |
+| 277 | [2021/12/06](https://blog.ntnx.jp/entry/2021/12/06/235312) | Nutanix Files FSVM に SSH してみる。（iptables 編） | o |
+| 276 | [2021/12/04](https://blog.ntnx.jp/entry/2021/12/04/235506) | Nutanix REST API の URL パターンについて。 | o |
+| 275 | [2021/12/03](https://blog.ntnx.jp/entry/2021/12/03/230254) | Nutanix CE で VM の UUID を確認してみる。（続編） | o |
+| 274 | [2021/12/02](https://blog.ntnx.jp/entry/2021/12/02/230532) | Nutanix CE で VM の UUID を確認してみる。 | o |
+| 273 | [2021/12/01](https://blog.ntnx.jp/entry/2021/12/01/223406) | Nutanix CVM の「＜アルファベット＞cli」はいくつあるのか？ | o |
+| 272 | [2021/11/30](https://blog.ntnx.jp/entry/2021/11/30/235829) | Nutanix Files の監査 Syslog を転送してみる。（Files API v3） | o |
+| 271 | [2021/10/11](https://blog.ntnx.jp/entry/2021/10/11/010240) | Nutanix CE の Calm で 2048 を起動してみる。 | o |
+| 270 | [2021/09/12](https://blog.ntnx.jp/entry/2021/09/12/232731) | Nutanix CE で Calm を有効化してみる。 | o |
 | 269 | [2021/08/08](https://blog.ntnx.jp/entry/2021/08/08/172226) | Nutanix CE に Nutanix Files を展開する。（Ansible 編） | o |
 | 268 | [2021/08/04](https://blog.ntnx.jp/entry/2021/08/04/210339) | Nutanix CE に Nutanix Files を展開する。（シングル ノード構築 REST API 編） | o |
 | 267 | [2021/08/04](https://blog.ntnx.jp/entry/2021/08/04/010708) | Nutanix CE の Nutanix Files ファイル サーバーを削除する。（REST API 編） | o |
