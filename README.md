@@ -1,10 +1,11 @@
 # NTNX＞日記、投稿一覧
 
-2021/12/31 までの投稿。  
+2022/01/26 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 293 | [2022/01/26](https://blog.ntnx.jp/entry/2022/01/26/203539) | Advent Calendar 2021 LT（Nutanix Meetup 22.01） | o |
 | 292 | [2021/12/25](https://blog.ntnx.jp/entry/2021/12/25/214531) | Nutanix CE で NGT インストール済み VM をクローンしてみる。（Oracle Linux 8） | o |
 | 291 | [2021/12/24](https://blog.ntnx.jp/entry/2021/12/24/235727) | Oracle Linux 8 に NGT をインストールしてみる。 | o |
 | 290 | [2021/12/24](https://blog.ntnx.jp/entry/2021/12/24/030902) | Nutanix Prism での VM 名を virsh で表示してみる。 | o |
