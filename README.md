@@ -1,10 +1,21 @@
 # NTNX＞日記、投稿一覧
 
-2022/01/26 までの投稿。  
+2022/10/02 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 304 | [2022/09/30](https://blog.ntnx.jp/entry/2022/09/30/235023) | AHV の OpenFlow ルール表示を工夫してみる。 | o |
+| 303 | [2022/08/21](https://blog.ntnx.jp/entry/2022/08/21/081155) | Nutanix AHV で vNIC の一覧を取得してみる。（Python） | o |
+| 302 | [2022/08/20](https://blog.ntnx.jp/entry/2022/08/20/235928) | Nutanix AHV vNIC での tap の名前付与の様子。 | o |
+| 301 | [2022/07/31](https://blog.ntnx.jp/entry/2022/07/31/224708) | Nutanix CE の Open vSwitch ブリッジ チェーンを整形出力してみる。 | o |
+| 300 | [2022/06/30](https://blog.ntnx.jp/entry/2022/06/30/233937) | Nutanix CE の SCMA（Security Configuration Management Automation）の様子。 | o |
+| 299 | [2022/05/13](https://blog.ntnx.jp/entry/2022/05/13/005337) | Nutanix バイブルの AOS 6.1 対応について。（Nutanix Meetup 22.05） | o |
+| 298 | [2022/04/29](https://blog.ntnx.jp/entry/2022/04/29/232821) | Nutanix Ansible Collection v1.0 をインストールしてみる。 | o |
+| 297 | [2022/03/05](https://blog.ntnx.jp/entry/2022/03/05/205926) | Nutanix PowerShell Cmdlets v2.0 をコンテナにしてみる。 | o |
+| 296 | [2022/03/04](https://blog.ntnx.jp/entry/2022/03/04/235920) | Nutanix PowerShell Cmdlets v2.0 でコマンドレットの Prefix を設定してみる。 | o |
+| 295 | [2022/03/04](https://blog.ntnx.jp/entry/2022/03/04/021740) | Nutanix PowerShell Cmdlets v2.0 で実行したタスクの結果を確認してみる。 | o |
+| 294 | [2022/02/28](https://blog.ntnx.jp/entry/2022/02/28/224231) | Nutanix CE で PowerShell Cmdlets v2.0 を試してみる。 | o |
 | 293 | [2022/01/26](https://blog.ntnx.jp/entry/2022/01/26/203539) | Advent Calendar 2021 LT（Nutanix Meetup 22.01） | o |
 | 292 | [2021/12/25](https://blog.ntnx.jp/entry/2021/12/25/214531) | Nutanix CE で NGT インストール済み VM をクローンしてみる。（Oracle Linux 8） | o |
 | 291 | [2021/12/24](https://blog.ntnx.jp/entry/2021/12/24/235727) | Oracle Linux 8 に NGT をインストールしてみる。 | o |
