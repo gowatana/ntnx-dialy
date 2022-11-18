@@ -1,10 +1,11 @@
 # NTNX＞日記、投稿一覧
 
-2022/10/25 までの投稿。  
+2022/11/18 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 307 | [2022/11/18](https://blog.ntnx.jp/entry/2022/11/18/225041) | Nutanix CE の Syslog 転送で Prism のログイン イベントを確認してみる。 | o |
 | 306 | [2022/10/23](https://blog.ntnx.jp/entry/2022/10/23/235837) | Nutanix CE で Prism Central 管理のディスク イメージを Prism Element で削除 / 再利用してみる。 | o |
 | 305 | [2022/10/22](https://blog.ntnx.jp/entry/2022/10/22/235802) | Nutanix CE AHV でパワーオン VM のメモリ容量一覧を取得してみる。（curl） | o |
 | 304 | [2022/09/30](https://blog.ntnx.jp/entry/2022/09/30/235023) | AHV の OpenFlow ルール表示を工夫してみる。 | o |
