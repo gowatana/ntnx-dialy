@@ -1,10 +1,30 @@
 # NTNX＞日記、投稿一覧
 
-2022/11/18 までの投稿。  
+2023/01/07 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 327 | [2023/01/06](https://blog.ntnx.jp/entry/2023/01/06/003758) | Nutanix CE の admin ユーザに以前と同じパスワードを設定してみる。 | o |
+| 326 | [2022/12/25](https://blog.ntnx.jp/entry/2022/12/25/182803) | Nutanix の NDB-Operator で PostgreSQL DB をプロビジョニングしてみる。 | o |
+| 325 | [2022/12/24](https://blog.ntnx.jp/entry/2022/12/24/235034) | NDB で DB と DB サーバ VM を削除してみる。（REST API & curl 編） | o |
+| 324 | [2022/12/23](https://blog.ntnx.jp/entry/2022/12/23/234103) | NDB で PostgreSQL DB サーバ に OS パッチを適用してみる。 | o |
+| 323 | [2022/12/22](https://blog.ntnx.jp/entry/2022/12/22/235816) | NDB で OS アップデートの様子を見てみる。 | o |
+| 322 | [2022/12/21](https://blog.ntnx.jp/entry/2022/12/21/085952) | Nutanix Technology Champions 2023 に選ばれました。 | o |
+| 321 | [2022/12/21](https://blog.ntnx.jp/entry/2022/12/21/020951) | NDB のプロファイル ID を REST API で取得してみる。 | o |
+| 320 | [2022/12/20](https://blog.ntnx.jp/entry/2022/12/20/232920) | NDB Server をアップグレードしてみる。（NDB 2.5.1.1） | o |
+| 319 | [2022/12/19](https://blog.ntnx.jp/entry/2022/12/19/230611) | NDB で PostgreSQL DB をプロビジョニングしてみる。（REST API & curl 編） | o |
+| 318 | [2022/12/18](https://blog.ntnx.jp/entry/2022/12/18/234023) | NDB で 1台の DB サーバに 複数の Oracle CDB をクローンしてみる。 | o |
+| 317 | [2022/12/16](https://blog.ntnx.jp/entry/2022/12/16/040309) | NDB で DB を PIT リカバリしてみる。（Oracle） | o |
+| 316 | [2022/12/15](https://blog.ntnx.jp/entry/2022/12/15/030326) | NDB で DB をプロビジョニングしてみる。（Oracle CDB） | o |
+| 315 | [2022/12/14](https://blog.ntnx.jp/entry/2022/12/14/231934) | NDB での DB / DB サーバの削除の様子。（Oracle） | o |
+| 314 | [2022/12/14](https://blog.ntnx.jp/entry/2022/12/14/185250) | NDB の Oracle Database クローンでデータ マスキングしてみる。 | o |
+| 313 | [2022/12/13](https://blog.ntnx.jp/entry/2022/12/13/230617) | NDB で Oracle Database をクローンしてみる。（Non-CDB） | o |
+| 312 | [2022/12/12](https://blog.ntnx.jp/entry/2022/12/12/235825) | NDB CLI を DB サーバから実行してみる。 | o |
+| 311 | [2022/12/08](https://blog.ntnx.jp/entry/2022/12/08/233530) | NDB で PostgreSQL DB をプロビジョニングしてみる。（OOB 編） | o |
+| 310 | [2022/12/07](https://blog.ntnx.jp/entry/2022/12/07/235802) | Nutanix の NDB と Oracle Database。 | o |
+| 309 | [2022/12/07](https://blog.ntnx.jp/entry/2022/12/07/085810) | NDB Server をセットアップしてみる。後編： NDB Server の初期設定 | o |
+| 308 | [2022/12/06](https://blog.ntnx.jp/entry/2022/12/06/231052) | NDB Server をセットアップしてみる。前編： AHV での NDB Server 構築 | o |
 | 307 | [2022/11/18](https://blog.ntnx.jp/entry/2022/11/18/225041) | Nutanix CE の Syslog 転送で Prism のログイン イベントを確認してみる。 | o |
 | 306 | [2022/10/23](https://blog.ntnx.jp/entry/2022/10/23/235837) | Nutanix CE で Prism Central 管理のディスク イメージを Prism Element で削除 / 再利用してみる。 | o |
 | 305 | [2022/10/22](https://blog.ntnx.jp/entry/2022/10/22/235802) | Nutanix CE AHV でパワーオン VM のメモリ容量一覧を取得してみる。（curl） | o |
