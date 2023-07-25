@@ -1,10 +1,21 @@
 # NTNX＞日記、投稿一覧
 
-2023/01/07 までの投稿。  
+2023/07/26 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 338 | [2023/06/25](https://blog.ntnx.jp/entry/2023/06/25/235618) | Nested Nutanix CE と Nutanix DevStation。（Nutanix Meetup Hybrid 23.06） | o |
+| 337 | [2023/06/13](https://blog.ntnx.jp/entry/2023/06/13/124653) | 自宅の物理 Nutanix の変遷。 | o |
+| 336 | [2023/05/07](https://blog.ntnx.jp/entry/2023/05/07/150924) | Nutanix から仮想マシンを取得する Ansible Dynamic Inventory を作成してみる。（REST API v2） | o |
+| 335 | [2023/05/03](https://blog.ntnx.jp/entry/2023/05/03/154512) | Nutanix の NDB と Oracle Database。補足編（DB Server と DB の同時登録） | o |
+| 334 | [2023/04/22](https://blog.ntnx.jp/entry/2023/04/22/162504) | ESXi で Nested Nutanix CE VM を作成してみる。（PowerCLI 版） | o |
+| 333 | [2023/03/05](https://blog.ntnx.jp/entry/2023/03/05/210107) | Nutanix CE の SSL 証明書を入れ替えてみる。 | o |
+| 332 | [2023/03/04](https://blog.ntnx.jp/entry/2023/03/04/165057) | ESXi で Nested Nutanix CE を構成してみる。（CE 2.0 / AOS 6.5.2 AHV 版） | o |
+| 331 | [2023/02/28](https://blog.ntnx.jp/entry/2023/02/28/235802) | NDB で作成した Oracle Database の様子。（Single Instance DB Server VM - vDisk 編） | o |
+| 330 | [2023/02/12](https://blog.ntnx.jp/entry/2023/02/12/033354) | Nutanix AHV の仮想マシンで vDisk を独立管理する。（Volume Group 編） | o |
+| 329 | [2023/02/11](https://blog.ntnx.jp/entry/2023/02/11/235828) | Nutanix AHV の仮想マシンで vDisk を独立管理する。（Image Service 編） | o |
+| 328 | [2023/01/24](https://blog.ntnx.jp/entry/2023/01/24/235412) | Nutanix から見た NDB のソフトウェア プロファイル。 | o |
 | 327 | [2023/01/06](https://blog.ntnx.jp/entry/2023/01/06/003758) | Nutanix CE の admin ユーザに以前と同じパスワードを設定してみる。 | o |
 | 326 | [2022/12/25](https://blog.ntnx.jp/entry/2022/12/25/182803) | Nutanix の NDB-Operator で PostgreSQL DB をプロビジョニングしてみる。 | o |
 | 325 | [2022/12/24](https://blog.ntnx.jp/entry/2022/12/24/235034) | NDB で DB と DB サーバ VM を削除してみる。（REST API & curl 編） | o |
