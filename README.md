@@ -1,10 +1,17 @@
 # NTNX＞日記、投稿一覧
 
-2023/07/26 までの投稿。  
+2023/10/31 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 345 | [2023/10/31](https://blog.ntnx.jp/entry/2023/10/31/034114) | Nutanix UVM の Description フィールドを Tag 欄として利用してみる。（Ansible） | o |
+| 344 | [2023/09/30](https://blog.ntnx.jp/entry/2023/09/30/212544) | NDB の Oracle Database パラメータ プロファイルに初期化パラメータを追加してみる。 | o |
+| 343 | [2023/08/24](https://blog.ntnx.jp/entry/2023/08/24/090623) | Nutanix DevStation から NDB を操作してみる。（Nutanix Meetup Hybrid 23.08） | o |
+| 342 | [2023/08/23](https://blog.ntnx.jp/entry/2023/08/23/012441) | Nutanix の NDB と Oracle Database。（21c サイレント インストール） | o |
+| 341 | [2023/08/20](https://blog.ntnx.jp/entry/2023/08/20/235933) | NDB で PostgreSQL DB をプロビジョニングしてみる。（Terraform 編 補足） | o |
+| 340 | [2023/07/30](https://blog.ntnx.jp/entry/2023/07/30/235532) | NDB で PostgreSQL DB をプロビジョニングしてみる。（Terraform 編） | o |
+| 339 | [2023/06/26](https://blog.ntnx.jp/entry/2023/06/26/225742) | Nutanix DevStation を Windows で利用してみる。 | o |
 | 338 | [2023/06/25](https://blog.ntnx.jp/entry/2023/06/25/235618) | Nested Nutanix CE と Nutanix DevStation。（Nutanix Meetup Hybrid 23.06） | o |
 | 337 | [2023/06/13](https://blog.ntnx.jp/entry/2023/06/13/124653) | 自宅の物理 Nutanix の変遷。 | o |
 | 336 | [2023/05/07](https://blog.ntnx.jp/entry/2023/05/07/150924) | Nutanix から仮想マシンを取得する Ansible Dynamic Inventory を作成してみる。（REST API v2） | o |
