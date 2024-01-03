@@ -16,5 +16,5 @@ Packer の Nutanix Plugin を試す。
 * Oracle Linux 8
 
 ## 参考情報
-* CAPX の Image Builder
+* CAPX の Image Builder  
   https://blog.ntnx.jp/entry/2023/12/13/032701
