@@ -25,3 +25,8 @@
 * Nutanix Volumes の様子（概要 / Data Service IP、LocalとExtの違い、など）
 * Nutanix Volumes の様子（詳細 / Path 説明）
 * CVM 障害時の様子（vDisk / Local VG / 外部 VG）
+
+# 構成
+
+* 4-Node
+* Prism Central は停止でもOK
