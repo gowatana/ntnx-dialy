@@ -1,10 +1,29 @@
 # NTNX＞日記、投稿一覧
 
-2023/10/31 までの投稿。  
+2024/01/06 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 364 | [2024/01/06](https://blog.ntnx.jp/entry/2024/01/06/133000) | Nutanix Kubernetes Engine クラスタの様子。（kubectl） | o |
+| 363 | [2024/01/06](https://blog.ntnx.jp/entry/2024/01/06/123052) | Nutanix Kubernetes Engine クラスタの様子。（SSH） | o |
+| 362 | [2024/01/05](https://blog.ntnx.jp/entry/2024/01/05/193228) | Nutanix Kubernetes Engine クラスタの様子。（Prism Central） | o |
+| 361 | [2024/01/04](https://blog.ntnx.jp/entry/2024/01/04/005348) | Nutanix Database Service（NDB）投稿のまとめ | o |
+| 360 | [2024/01/04](https://blog.ntnx.jp/entry/2024/01/04/000938) | Nutanix Kubernetes Engine（NKE）投稿のまとめ | o |
+| 359 | [2023/12/28](https://blog.ntnx.jp/entry/2023/12/28/201724) | NDB 初心者にもわかる​コピー データ マネージメント の録画と資料（Nutanix Meetup Hybrid 23.03） | o |
+| 358 | [2023/12/13](https://blog.ntnx.jp/entry/2023/12/13/225553) | CAPX で Kubernetes 環境構築してみる。Part-04 | o |
+| 357 | [2023/12/13](https://blog.ntnx.jp/entry/2023/12/13/231711) | Nutanix Technology Champions 2024 に選ばれました。 | o |
+| 356 | [2023/12/13](https://blog.ntnx.jp/entry/2023/12/13/222307) | CAPX で Kubernetes 環境構築してみる。Part-03 | o |
+| 355 | [2023/12/13](https://blog.ntnx.jp/entry/2023/12/13/032739) | CAPX で Kubernetes 環境構築してみる。Part-02 | o |
+| 354 | [2023/12/13](https://blog.ntnx.jp/entry/2023/12/13/032701) | CAPX で Kubernetes 環境構築してみる。Part-01 | o |
+| 353 | [2023/12/10](https://blog.ntnx.jp/entry/2023/12/10/235402) | Nutanix CE でもういなくなった Prism Central を Prism Element から削除してみる。 | o |
+| 352 | [2023/12/09](https://blog.ntnx.jp/entry/2023/12/09/162653) | Nutanix Kubernetes Engine でクラスタを作成してみる。 | o |
+| 351 | [2023/12/09](https://blog.ntnx.jp/entry/2023/12/09/142233) | Prism Central VM のリソースを変更してみる。 | o |
+| 350 | [2023/12/07](https://blog.ntnx.jp/entry/2023/12/07/235909) | Prism Central から Prism Element の AHV ネットワークを作成する。 | o |
+| 349 | [2023/12/06](https://blog.ntnx.jp/entry/2023/12/06/213812) | Nutanix Kubernetes Engine を有効化してみる。 | o |
+| 348 | [2023/12/05](https://blog.ntnx.jp/entry/2023/12/05/235513) | Prism Central pc.2023.3 で Marketplace を有効化してみる。 | o |
+| 347 | [2023/12/04](https://blog.ntnx.jp/entry/2023/12/04/235029) | Prism Central pc.2023.3 の MSP の様子を見てみる。 | o |
+| 346 | [2023/11/07](https://blog.ntnx.jp/entry/2023/11/07/194352) | Nutanix CE 2.0 に Prism Central pc.2023.3 をデプロイしてみる。 | o |
 | 345 | [2023/10/31](https://blog.ntnx.jp/entry/2023/10/31/034114) | Nutanix UVM の Description フィールドを Tag 欄として利用してみる。（Ansible） | o |
 | 344 | [2023/09/30](https://blog.ntnx.jp/entry/2023/09/30/212544) | NDB の Oracle Database パラメータ プロファイルに初期化パラメータを追加してみる。 | o |
 | 343 | [2023/08/24](https://blog.ntnx.jp/entry/2023/08/24/090623) | Nutanix DevStation から NDB を操作してみる。（Nutanix Meetup Hybrid 23.08） | o |
