@@ -98,28 +98,28 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 255 | [2021/02/28](https://blog.ntnx.jp/entry/2021/02/28/230444) | Nutanix CE の AHV で CVM / UVM の違いを見てみる。（cgroups） | o |
 | 254 | [2021/01/31](https://blog.ntnx.jp/entry/2021/01/31/234907) | Nutanix CE の X-Play を使用してみる。 | o |
 | 253 | [2020/12/25](https://blog.ntnx.jp/entry/2020/12/25/024558) | メリークリスマス（Prism Central） | o |
-| 252 | [2020/12/23](https://blog.ntnx.jp/entry/2020/12/23/021010) | Nutanix CE 5.18 で Karbon を有効化してみる。（kubectl / kubeconfig 準備編） | o |
+| 252 | [2020/12/23](https://blog.ntnx.jp/entry/2020/12/23/021010) | Nutanix CE 5.18 で Karbon を有効化してみる。（kubectl / kubeconfig 準備編） | x |
 | 251 | [2020/12/20](https://blog.ntnx.jp/entry/2020/12/20/225407) | Nutanix CE から SNMP Trap を受信してみる。 | o |
 | 250 | [2020/12/16](https://blog.ntnx.jp/entry/2020/12/16/235858) | Nutanix CE から SNMP で情報取得してみる。 | o |
-| 249 | [2020/12/13](https://blog.ntnx.jp/entry/2020/12/13/145328) | Nutanix CE 5.18 で Karbon を有効化してみる。（動作確認 / 2048 ゲーム起動編） | o |
-| 248 | [2020/12/12](https://blog.ntnx.jp/entry/2020/12/12/231247) | Nutanix CE 5.18 で Karbon を有効化してみる。（REST API でのクラスタ作成 / 削除編） | o |
-| 247 | [2020/12/12](https://blog.ntnx.jp/entry/2020/12/12/151057) | Nutanix CE 5.18 で Karbon を有効化してみる。（REST API での情報確認編） | o |
-| 246 | [2020/12/11](https://blog.ntnx.jp/entry/2020/12/11/183603) | Nutanix CE 5.18 で Karbon を有効化してみる。（karbonctl での情報確認編） | o |
-| 245 | [2020/12/09](https://blog.ntnx.jp/entry/2020/12/09/203808) | ESXi で Nested Nutanix CE を構成してみる。（ce-2020.09.16-stable ESXi 版） | o |
-| 244 | [2020/12/08](https://blog.ntnx.jp/entry/2020/12/08/225058) | Nutanix CE 5.18 で Karbon を有効化してみる。（作成したクラスタの様子見編） | o |
+| 249 | [2020/12/13](https://blog.ntnx.jp/entry/2020/12/13/145328) | Nutanix CE 5.18 で Karbon を有効化してみる。（動作確認 / 2048 ゲーム起動編） | x |
+| 248 | [2020/12/12](https://blog.ntnx.jp/entry/2020/12/12/231247) | Nutanix CE 5.18 で Karbon を有効化してみる。（REST API でのクラスタ作成 / 削除編） | x |
+| 247 | [2020/12/12](https://blog.ntnx.jp/entry/2020/12/12/151057) | Nutanix CE 5.18 で Karbon を有効化してみる。（REST API での情報確認編） | x |
+| 246 | [2020/12/11](https://blog.ntnx.jp/entry/2020/12/11/183603) | Nutanix CE 5.18 で Karbon を有効化してみる。（karbonctl での情報確認編） | x |
+| 245 | [2020/12/09](https://blog.ntnx.jp/entry/2020/12/09/203808) | ESXi で Nested Nutanix CE を構成してみる。（ce-2020.09.16-stable ESXi 版） | x |
+| 244 | [2020/12/08](https://blog.ntnx.jp/entry/2020/12/08/225058) | Nutanix CE 5.18 で Karbon を有効化してみる。（作成したクラスタの様子見編） | x |
 | 243 | [2020/12/05](https://blog.ntnx.jp/entry/2020/12/05/235839) | Nutanix CE で IPAM 有効なネットワークを作成してみる。 | o |
-| 242 | [2020/12/04](https://blog.ntnx.jp/entry/2020/12/04/205705) | Nutanix CE 5.18 で Karbon を有効化してみる。 | o |
+| 242 | [2020/12/04](https://blog.ntnx.jp/entry/2020/12/04/205705) | Nutanix CE 5.18 で Karbon を有効化してみる。 | x |
 | 241 | [2020/12/03](https://blog.ntnx.jp/entry/2020/12/03/231115) | Nutanix Meetup Online 20.12 の仮想スイッチ クイズ（回答編） | o |
 | 240 | [2020/12/02](https://blog.ntnx.jp/entry/2020/12/02/223739) | Nutanix CE の管理ネットワーク VLAN ID 設定で理解する AHV の仮想スイッチ。 | o |
 | 239 | [2020/11/20](https://blog.ntnx.jp/entry/2020/11/20/014320) | Nutanix CE 管理ネットワークの VLAN ID を変更してみる。 | o |
-| 238 | [2020/10/06](https://blog.ntnx.jp/entry/2020/10/06/224037) | ESXi で Nested Nutanix CE を構成してみる。（ce-2020.09.16-stable AHV 版） | o |
+| 238 | [2020/10/06](https://blog.ntnx.jp/entry/2020/10/06/224037) | ESXi で Nested Nutanix CE を構成してみる。（ce-2020.09.16-stable AHV 版） | x |
 | 237 | [2020/09/30](https://blog.ntnx.jp/entry/2020/09/30/235747) | Nutanix CE のバージョンアップ。（2019.11.22 → 2020.09.16） | o |
 | 236 | [2020/08/30](https://blog.ntnx.jp/entry/2020/08/30/231644) | Nutanix API v2 で VM の IP アドレスを取得してみる。（Python） | o |
 | 235 | [2020/08/30](https://blog.ntnx.jp/entry/2020/08/30/182456) | Nutanix を Python から操作してみる投稿集。 | o |
 | 234 | [2020/08/30](https://blog.ntnx.jp/entry/2020/08/30/153906) | Nutanix AHV に手軽に Linux VM を用意する。（REST API & Python3） | o |
 | 233 | [2020/07/19](https://blog.ntnx.jp/entry/2020/07/19/165100) | Nutanix CE の Health Check 項目の一覧を取得してみる。（Python & ce-2019.11.22-stable 編） | o |
 | 232 | [2020/05/31](https://blog.ntnx.jp/entry/2020/05/31/194857) | Nutanix の Prism Central 日本語化について。 | o |
-| 231 | [2020/05/31](https://blog.ntnx.jp/entry/2020/05/31/194402) | Xi Leap の Nutanix Test Drive について。 | o |
+| 231 | [2020/05/31](https://blog.ntnx.jp/entry/2020/05/31/194402) | Xi Leap の Nutanix Test Drive について。 | x |
 | 230 | [2020/04/30](https://blog.ntnx.jp/entry/2020/04/30/235503) | Nutanix CE の Prism ログイン前に #StayAtHome を表示してみる。 | o |
 | 229 | [2020/03/23](https://blog.ntnx.jp/entry/2020/03/23/005003) | Nutanix CE で vDisk のデータ配置を表示してみる。 | o |
 | 228 | [2020/03/22](https://blog.ntnx.jp/entry/2020/03/22/175658) | Nutanix CE でノード削除 → ノード追加してみる。 | o |
@@ -127,8 +127,8 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 226 | [2020/03/19](https://blog.ntnx.jp/entry/2020/03/19/201516) | Nutanix CE に acli で VM を作成してみる。 | o |
 | 225 | [2020/03/15](https://blog.ntnx.jp/entry/2020/03/15/223319) | Nutanix CE の Prism 日本語化について。 | o |
 | 224 | [2020/03/15](https://blog.ntnx.jp/entry/2020/03/15/123712) | Nutanix CE を ncli で初期設定してみる。 | o |
-| 223 | [2020/02/25](https://blog.ntnx.jp/entry/2020/02/25/013643) | ESXi で Nested Nutanix CE を構成してみる。（ce-2019.11.22-stable 対応版） | o |
-| 222 | [2020/02/24](https://blog.ntnx.jp/entry/2020/02/24/152143) | Nutanix CE 環境構築の流れ。（2020 年版） | o |
+| 223 | [2020/02/25](https://blog.ntnx.jp/entry/2020/02/25/013643) | ESXi で Nested Nutanix CE を構成してみる。（ce-2019.11.22-stable 対応版） | x |
+| 222 | [2020/02/24](https://blog.ntnx.jp/entry/2020/02/24/152143) | Nutanix CE 環境構築の流れ。（2020 年版） | x |
 | 221 | [2020/01/30](https://blog.ntnx.jp/entry/2020/01/30/082317) | acli で VM 削除自動化くん。（Bash スクリプト編） | o |
 | 220 | [2019/12/13](https://blog.ntnx.jp/entry/2019/12/13/224156) | Prism の Nutanix REST API のリクエスト内容を確認してみる。（Chrome 編） | o |
 | 219 | [2019/12/12](https://blog.ntnx.jp/entry/2019/12/12/231433) | Nutanix CE の Prism Central をセットアップする。（on ESXi 編） | o |
@@ -141,7 +141,7 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 212 | [2019/11/21](https://blog.ntnx.jp/entry/2019/11/21/091108) | Nutanix CE の Prism Central をセットアップする。（2019.02.28-stable） | o |
 | 211 | [2019/11/20](https://blog.ntnx.jp/entry/2019/11/20/235804) | Nutanix Advent Calendarのすすめ。(Meetup #47) | o |
 | 210 | [2019/11/05](https://blog.ntnx.jp/entry/2019/11/05/013718) | Nutanix CE での VM 削除ずみスナップショットの操作。 | o |
-| 209 | [2019/10/24](https://blog.ntnx.jp/entry/2019/10/24/004824) | Nutanix .NEXT 2019 EU の気になったスライド。（自分むけ） | o |
+| 209 | [2019/10/24](https://blog.ntnx.jp/entry/2019/10/24/004824) | Nutanix .NEXT 2019 EU の気になったスライド。（自分むけ） | x |
 | 208 | [2019/09/02](https://blog.ntnx.jp/entry/2019/09/02/080755) | Nutanix CE で Windows Sysprep と応答ファイルで AD ドメイン参加してみる。（acli 編） | o |
 | 207 | [2019/08/31](https://blog.ntnx.jp/entry/2019/08/31/233552) | Nutanix CE で Windows Sysprep と応答ファイルで AD ドメイン参加してみる。（Prism 編） | o |
 | 206 | [2019/07/24](https://blog.ntnx.jp/entry/2019/07/24/090507) | AHV の Image Service 登録で Linux DISK イメージが起動できない場合の対処例。 | o |
@@ -150,7 +150,7 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 203 | [2019/06/19](https://blog.ntnx.jp/entry/2019/06/19/065002) | エンタープライズ空を飛ぶ。(Meetup #42) | o |
 | 202 | [2019/05/22](https://blog.ntnx.jp/entry/2019/05/22/235259) | Nutanix CE の REST API v2 で VM のタイムゾーン設定を確認してみる。 | o |
 | 201 | [2019/05/18](https://blog.ntnx.jp/entry/2019/05/18/225610) | Nutanix の日本語書籍 第2弾が発売されます。 | o |
-| 200 | [2019/05/15](https://blog.ntnx.jp/entry/2019/05/15/075536) | Nutanix .NEXT 2019 アナハイムのおすすめスライド。（自分むけ） | o |
+| 200 | [2019/05/15](https://blog.ntnx.jp/entry/2019/05/15/075536) | Nutanix .NEXT 2019 アナハイムのおすすめスライド。（自分むけ） | x |
 | 199 | [2019/04/30](https://blog.ntnx.jp/entry/2019/04/30/150233) | Nutanix CE の Linux ゲスト OS のタイムゾーン設定。 | o |
 | 198 | [2019/03/15](https://blog.ntnx.jp/entry/2019/03/15/225848) | Nutanix AHV におけるスナップショット & バックアップ。 | o |
 | 197 | [2019/02/28](https://blog.ntnx.jp/entry/2019/02/28/080031) | Nutanix Test Drive にログインして日本語にしてみる。 |  |
@@ -170,7 +170,7 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 183 | [2018/12/16](https://blog.ntnx.jp/entry/2018/12/16/182704) | Nutanix AHV での CVM 障害時のユーザ VM の様子を見る。（Local VG 編） | o |
 | 182 | [2018/12/16](https://blog.ntnx.jp/entry/2018/12/16/155515) | Nutanix AHV での CVM 障害時のユーザ VM の様子を見る。（vDisk 編） | o |
 | 181 | [2018/12/14](https://blog.ntnx.jp/entry/2018/12/14/235502) | Nutanix REST API v2 でクラスタ健全性チェックの定義を見てみる。 | o |
-| 180 | [2018/12/13](https://blog.ntnx.jp/entry/2018/12/13/234405) | Nutanix .NEXT Conference 2018 ロンドンの資料より。（AHV 系） |  |
+| 180 | [2018/12/13](https://blog.ntnx.jp/entry/2018/12/13/234405) | Nutanix .NEXT Conference 2018 ロンドンの資料より。（AHV 系） | x |
 | 179 | [2018/12/12](https://blog.ntnx.jp/entry/2018/12/12/235910) | Nutanix CE で vDisk のストレージ コンテナ配置を簡易確認してみる。（Nutanix Cmdlets） | o |
 | 178 | [2018/12/12](https://blog.ntnx.jp/entry/2018/12/12/034217) | 実機による NUTANIX 動作確認。（クリスマス編） | o |
 | 177 | [2018/12/12](https://blog.ntnx.jp/entry/2018/12/12/031546) | Nutanix CE で vDisk のストレージ コンテナ配置を簡易確認してみる。 | o |
@@ -196,8 +196,8 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 157 | [2018/07/20](https://blog.ntnx.jp/entry/2018/07/20/150356) | AHV で Nested Nutanix CE の VM を作成する。 | o |
 | 156 | [2018/06/30](https://blog.ntnx.jp/entry/2018/06/30/221924) | Nutanix の Fan について。 | o |
 | 155 | [2018/06/17](https://blog.ntnx.jp/entry/2018/06/17/233516) | Nutanix CE 5.6 の ISO インストーラをためしてみる。 | x |
-| 154 | [2018/06/02](https://blog.ntnx.jp/entry/2018/06/02/204659) | .NEXT 2018 ニューオーリンズの公開スライドをたのしむ（Meetup #27） |  |
-| 153 | [2018/05/19](https://blog.ntnx.jp/entry/2018/05/19/114855) | Nutanix .NEXT 2018 ニューオーリンズのおすすめスライド。（自分むけ） |  |
+| 154 | [2018/06/02](https://blog.ntnx.jp/entry/2018/06/02/204659) | .NEXT 2018 ニューオーリンズの公開スライドをたのしむ（Meetup #27） | x |
+| 153 | [2018/05/19](https://blog.ntnx.jp/entry/2018/05/19/114855) | Nutanix .NEXT 2018 ニューオーリンズのおすすめスライド。（自分むけ） | x |
 | 152 | [2018/05/13](https://blog.ntnx.jp/entry/2018/05/13/182025) | ニューオーリンズの Nutanix .NEXT 2018 カンファレンスに行ってきました。 |  |
 | 151 | [2018/05/03](https://blog.ntnx.jp/entry/2018/05/03/234856) | Nutanix CE への Prism Cental デプロイが失敗した時の対処。（acli でのディスク イメージ交換） |  |
 | 150 | [2018/05/02](https://blog.ntnx.jp/entry/2018/05/02/230720) | Nutanix CE を Prism Central に登録してみる。 |  |
@@ -318,8 +318,8 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 35 | [2016/03/21](https://blog.ntnx.jp/entry/2016/03/21/215853) | Nutanix CE でディザスタリカバリ。Part1: 準備編（Prism） |  |
 | 34 | [2016/03/21](https://blog.ntnx.jp/entry/2016/03/21/215738) | Nutanix CE でディザスタリカバリ。Part0: 準備編（Ravello） | x |
 | 33 | [2016/03/20](https://blog.ntnx.jp/entry/2016/03/20/004505) | Nutanix CE の CVM に Yum で RPM 追加。 |  |
-| 32 | [2016/03/15](https://blog.ntnx.jp/entry/2016/03/15/090818) | Nutanix Guest Tools と Cluster IP の通信。 |  |
-| 31 | [2016/03/14](https://blog.ntnx.jp/entry/2016/03/14/235053) | Nutanix Guest Tools を Oracle Linux 7 にインストール。 |  |
+| 32 | [2016/03/15](https://blog.ntnx.jp/entry/2016/03/15/090818) | Nutanix Guest Tools と Cluster IP の通信。 | x |
+| 31 | [2016/03/14](https://blog.ntnx.jp/entry/2016/03/14/235053) | Nutanix Guest Tools を Oracle Linux 7 にインストール。 | x |
 | 30 | [2016/03/13](https://blog.ntnx.jp/entry/2016/03/13/140233) | Nutanix CE 2016.03.03-stable の cluster status。 | x |
 | 29 | [2016/02/14](https://blog.ntnx.jp/entry/2016/02/14/215659) | Nutanix Acropolis Hypervisor の Docker Best Practices Guide を試してみる。 |  |
 | 28 | [2016/02/01](https://blog.ntnx.jp/entry/2016/02/01/075013) | Nutanix CE の、CVM でのバージョン確認。 |  |
