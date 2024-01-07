@@ -1,11 +1,12 @@
 # NTNX＞日記、投稿一覧
 
-2024/01/06 までの投稿。  
+2024/01/07 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
-| 364 | [2024/01/06](https://blog.ntnx.jp/entry/2024/01/06/133000) | Nutanix Kubernetes Engine クラスタの様子。（kubectl） | o |
+| 365 | [2024/01/07](https://blog.ntnx.jp/entry/2024/01/07/151704) | Nutanix Kubernetes Engine クラスタに接続してみる。（kubectl-karbon Plugin） | o |
+| 364 | [2024/01/06](https://blog.ntnx.jp/entry/2024/01/06/133000) | Nutanix Kubernetes Engine クラスタに接続してみる。（kubectl） | o |
 | 363 | [2024/01/06](https://blog.ntnx.jp/entry/2024/01/06/123052) | Nutanix Kubernetes Engine クラスタの様子。（SSH） | o |
 | 362 | [2024/01/05](https://blog.ntnx.jp/entry/2024/01/05/193228) | Nutanix Kubernetes Engine クラスタの様子。（Prism Central） | o |
 | 361 | [2024/01/04](https://blog.ntnx.jp/entry/2024/01/04/005348) | Nutanix Database Service（NDB）投稿のまとめ | o |
