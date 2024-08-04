@@ -1,19 +1,41 @@
 # NTNX＞日記、投稿一覧
 
-2024/01/07 までの投稿。  
+2024/08/04 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
-| 365 | [2024/01/07](https://blog.ntnx.jp/entry/2024/01/07/151704) | Nutanix Kubernetes Engine クラスタに接続してみる。（kubectl-karbon Plugin） | o |
-| 364 | [2024/01/06](https://blog.ntnx.jp/entry/2024/01/06/133000) | Nutanix Kubernetes Engine クラスタに接続してみる。（kubectl） | o |
-| 363 | [2024/01/06](https://blog.ntnx.jp/entry/2024/01/06/123052) | Nutanix Kubernetes Engine クラスタの様子。（SSH） | o |
-| 362 | [2024/01/05](https://blog.ntnx.jp/entry/2024/01/05/193228) | Nutanix Kubernetes Engine クラスタの様子。（Prism Central） | o |
-| 361 | [2024/01/04](https://blog.ntnx.jp/entry/2024/01/04/005348) | Nutanix Database Service（NDB）投稿のまとめ | o |
-| 360 | [2024/01/04](https://blog.ntnx.jp/entry/2024/01/04/000938) | Nutanix Kubernetes Engine（NKE）投稿のまとめ | o |
-| 359 | [2023/12/28](https://blog.ntnx.jp/entry/2023/12/28/201724) | NDB 初心者にもわかる​コピー データ マネージメント の録画と資料（Nutanix Meetup Hybrid 23.03） | o |
-| 358 | [2023/12/13](https://blog.ntnx.jp/entry/2023/12/13/225553) | CAPX で Kubernetes 環境構築してみる。Part-04 | o |
-| 357 | [2023/12/13](https://blog.ntnx.jp/entry/2023/12/13/231711) | Nutanix Technology Champions 2024 に選ばれました。 | o |
+| 387 | [2024/07/28](https://blog.ntnx.jp/entry/2024/07/28/234404) | NDB で PostgreSQL のクローン DB を作成してみる。（Ansible） | o |
+| 386 | [2024/06/30](https://blog.ntnx.jp/entry/2024/06/30/221546) | NDB で MongoDB 6 をプロビジョニングしてみる。 | o |
+| 385 | [2024/05/11](https://blog.ntnx.jp/entry/2024/05/11/164326) | NDB で PostgreSQL 15 をプロビジョニングしてみる。（Peer 認証） | o |
+| 384 | [2024/05/06](https://blog.ntnx.jp/entry/2024/05/06/205254) | NDB で Vector DB をプロビジョニングしてみる。（PostgreSQL 15 + pgvector） | o |
+| 383 | [2024/05/03](https://blog.ntnx.jp/entry/2024/05/03/225451) | NDB で PostgreSQL 15 をプロビジョニングしてみる。 | o |
+| 382 | [2024/05/03](https://blog.ntnx.jp/entry/2024/05/03/122555) | NDB でデータベースを Soft Remove してみる。（REST API & curl） | o |
+| 381 | [2024/04/28](https://blog.ntnx.jp/entry/2024/04/28/214345) | NDB Server をセットアップしてみる。（Prism Central Marketplace 編） | o |
+| 380 | [2024/04/27](https://blog.ntnx.jp/entry/2024/04/27/235857) | AI/ML を動かすなら Nutanix で GPT-in-a-Box？（登壇資料） | o |
+| 379 | [2024/04/14](https://blog.ntnx.jp/entry/2024/04/14/043154) | Nutanix Volumes VG で SCSI3-PR の動作を確認してみる。（Direct-attached VG） | o |
+| 378 | [2024/03/10](https://blog.ntnx.jp/entry/2024/03/10/173917) | Kubeflow on NKE での自動 Profile 作成。 | o |
+| 377 | [2024/03/09](https://blog.ntnx.jp/entry/2024/03/09/211502) | Nutanix Kubernetes Engine でクラスタを作成してみる。（karbonctl + JSON） | o |
+| 376 | [2024/03/09](https://blog.ntnx.jp/entry/2024/03/09/143917) | Kubeflow に nutanix ユーザを作成してみる。 | o |
+| 375 | [2024/03/09](https://blog.ntnx.jp/entry/2024/03/09/121846) | Nutanix Kubernetes Engine クラスタに Kubeflow をインストールしてみる。 | o |
+| 374 | [2024/03/09](https://blog.ntnx.jp/entry/2024/03/09/023511) | Nutanix Kubernetes Engine で Worker Node Pool をスケールアウトしてみる。 | o |
+| 373 | [2024/03/08](https://blog.ntnx.jp/entry/2024/03/08/235918) | Nutanix Kubernetes Engine でクラスタを作成してみる。（karbonctl） | o |
+| 372 | [2024/02/24](https://blog.ntnx.jp/entry/2024/02/24/204640) | CAPX Kubernetes クラスタで kube-vip LoadBalancer Service を作成してみる。 | o |
+| 371 | [2024/02/19](https://blog.ntnx.jp/entry/2024/02/19/001340) | Nutanix Kubernetes Engine の Dev Cluster の OS イメージをアップグレードしてみる。（karbonctl） | o |
+| 370 | [2024/02/18](https://blog.ntnx.jp/entry/2024/02/18/163623) | CAPX Kubernetes クラスタで Nutanix Volumes PV を作成してみる。 | o |
+| 369 | [2024/02/14](https://blog.ntnx.jp/entry/2024/02/14/025309) | Nutanix Kubernetes Engine クラスタに MetalLB をインストールしてみる。 | o |
+| 368 | [2024/02/03](https://blog.ntnx.jp/entry/2024/02/03/031227) | Red Hat Insights Image Builder で AHV むけ RHEL ディスク イメージを作成してみる。 | o |
+| 367 | [2024/01/25](https://blog.ntnx.jp/entry/2024/01/25/234112) | CAPX の Kubernetes クラスタに Nutanix CSI Driver を追加してみる。 | o |
+| 366 | [2024/01/07](https://blog.ntnx.jp/entry/2024/01/07/151704) | Nutanix Kubernetes Engine クラスタに接続してみる。（kubectl-karbon Plugin） | o |
+| 365 | [2024/01/06](https://blog.ntnx.jp/entry/2024/01/06/133000) | Nutanix Kubernetes Engine クラスタに接続してみる。（kubectl） | o |
+| 364 | [2024/01/06](https://blog.ntnx.jp/entry/2024/01/06/123052) | Nutanix Kubernetes Engine クラスタの様子。（SSH） | o |
+| 363 | [2024/01/05](https://blog.ntnx.jp/entry/2024/01/05/193228) | Nutanix Kubernetes Engine クラスタの様子。（Prism Central） | o |
+| 362 | [2024/01/04](https://blog.ntnx.jp/entry/2024/01/04/005348) | Nutanix Database Service（NDB）投稿のまとめ | o |
+| 361 | [2024/01/04](https://blog.ntnx.jp/entry/2024/01/04/000938) | Nutanix Kubernetes Engine（NKE）投稿のまとめ | o |
+| 360 | [2023/12/28](https://blog.ntnx.jp/entry/2023/12/28/201724) | NDB 初心者にもわかる​コピー データ マネージメント の録画と資料（Nutanix Meetup Hybrid 23.03） | o |
+| 359 | [2023/12/13](https://blog.ntnx.jp/entry/2023/12/13/225553) | CAPX で Kubernetes 環境構築してみる。Part-04 | o |
+| 358 | [2023/12/13](https://blog.ntnx.jp/entry/2023/12/13/231711) | Nutanix Technology Champions 2024 に選ばれました。 | o |
+| 357 | [2023/12/13](https://blog.ntnx.jp/entry/2023/12/13/225553) | CAPX（Cluster API Provider Nutanix Cloud Infrastructure）で Kubernetes 環境構築してみる。 | o |
 | 356 | [2023/12/13](https://blog.ntnx.jp/entry/2023/12/13/222307) | CAPX で Kubernetes 環境構築してみる。Part-03 | o |
 | 355 | [2023/12/13](https://blog.ntnx.jp/entry/2023/12/13/032739) | CAPX で Kubernetes 環境構築してみる。Part-02 | o |
 | 354 | [2023/12/13](https://blog.ntnx.jp/entry/2023/12/13/032701) | CAPX で Kubernetes 環境構築してみる。Part-01 | o |
