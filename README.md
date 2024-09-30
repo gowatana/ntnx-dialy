@@ -1,10 +1,31 @@
 # NTNX＞日記、投稿一覧
 
-2024/08/04 までの投稿。  
+2024/09/30 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 408 | [2024/09/30](https://blog.ntnx.jp/entry/2024/09/30/234721) | Prism Central で Ubuntu 22.04 Cloud Image から VM を作成してみる。（Cloud-init） | o |
+| 407 | [2024/09/30](https://blog.ntnx.jp/entry/2024/09/30/190853) | Nutanix Volumes VG の Description を取得してみる。（curl） | o |
+| 406 | [2024/09/30](https://blog.ntnx.jp/entry/2024/09/30/085642) | Nutanix Kubernetes Platform（NKP）投稿のまとめ | o |
+| 405 | [2024/09/28](https://blog.ntnx.jp/entry/2024/09/28/125307) | Nutanix CE 2.1 に Prism Central pc.2024.2 をデプロイしてみる。 | o |
+| 404 | [2024/09/28](https://blog.ntnx.jp/entry/2024/09/28/111633) | Nutanix Kubernetes Platform（NKP）v2.12 の Workload Cluster をプロジェクトに作成してみる。後編:Project への NKP クラスタ作成 | o |
+| 403 | [2024/09/27](https://blog.ntnx.jp/entry/2024/09/27/230820) | Nutanix Kubernetes Platform（NKP）v2.12 の Workload Cluster をプロジェクトに作成してみる。前編:Project 作成 | o |
+| 402 | [2024/09/27](https://blog.ntnx.jp/entry/2024/09/27/214956) | Nutanix Kubernetes Platform（NKP）の参照（View）ユーザーを作成してみる。 | o |
+| 401 | [2024/09/26](https://blog.ntnx.jp/entry/2024/09/26/081033) | Nutanix Kubernetes Platform（NKP）の AD / LDAP 認証を kubectl で設定してみる。 | o |
+| 400 | [2024/09/25](https://blog.ntnx.jp/entry/2024/09/25/235949) | Nutanix Kubernetes Platform（NKP）ダッシュボードの LDAP 設定を解除してみる。 | o |
+| 399 | [2024/09/25](https://blog.ntnx.jp/entry/2024/09/25/220004) | Nutanix Kubernetes Platform の LDAP 設定を kubectl で確認してみる。 | o |
+| 398 | [2024/09/24](https://blog.ntnx.jp/entry/2024/09/24/235717) | Nutanix Kubernetes Platform（NKP）ダッシュボードで AD（LDAP）認証を設定してみる。 | o |
+| 397 | [2024/09/23](https://blog.ntnx.jp/entry/2024/09/23/155530) | Nutanix Kubernetes Platform（NKP）で Workload Cluster を作成してみる。（YAML） | o |
+| 396 | [2024/09/23](https://blog.ntnx.jp/entry/2024/09/23/145143) | Nutanix Kubernetes Platform（NKP）で Workload Cluster を作成してみる。（nkp CLI） | o |
+| 395 | [2024/09/20](https://blog.ntnx.jp/entry/2024/09/20/210705) | Nutanix Kubernetes Platform（NKP）で nkp コマンドを一般ユーザーで実行してみる。（rootless Podman） | o |
+| 394 | [2024/09/18](https://blog.ntnx.jp/entry/2024/09/18/214517) | Nutanix Kubernetes Platform（NKP）の Dashboard にローカル ユーザーでログインしてみる。 | o |
+| 393 | [2024/09/17](https://blog.ntnx.jp/entry/2024/09/17/030359) | Nutanix Kubernetes Platform（NKP）で Workload Cluster を作成してみる。 | o |
+| 392 | [2024/09/17](https://blog.ntnx.jp/entry/2024/09/17/012947) | NKP 2.12 の Management Cluster の様子。 | o |
+| 391 | [2024/09/16](https://blog.ntnx.jp/entry/2024/09/16/235808) | Nutanix Kubernetes Platform（NKP）で Management Cluster を作成してみる。 | o |
+| 390 | [2024/09/15](https://blog.ntnx.jp/entry/2024/09/15/225354) | ESXi で Nested Nutanix CE を構成してみる。（CE 2.1 / AOS 6.8.1 版） | o |
+| 389 | [2024/09/14](https://blog.ntnx.jp/entry/2024/09/14/233919) | Nutanix CE 2.1 の CVM で IPv6 を無効化してみる。（Prism Central 登録むけ） | o |
+| 388 | [2024/08/05](https://blog.ntnx.jp/entry/2024/08/05/004643) | NDB の PostgreSQL クローン DB を ソース DB 更新に揃えてリフレッシュしてみる。 | o |
 | 387 | [2024/07/28](https://blog.ntnx.jp/entry/2024/07/28/234404) | NDB で PostgreSQL のクローン DB を作成してみる。（Ansible） | o |
 | 386 | [2024/06/30](https://blog.ntnx.jp/entry/2024/06/30/221546) | NDB で MongoDB 6 をプロビジョニングしてみる。 | o |
 | 385 | [2024/05/11](https://blog.ntnx.jp/entry/2024/05/11/164326) | NDB で PostgreSQL 15 をプロビジョニングしてみる。（Peer 認証） | o |
