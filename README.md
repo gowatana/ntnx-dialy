@@ -67,7 +67,7 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 349 | [2023/12/06](https://blog.ntnx.jp/entry/2023/12/06/213812) | Nutanix Kubernetes Engine を有効化してみる。 | o |
 | 348 | [2023/12/05](https://blog.ntnx.jp/entry/2023/12/05/235513) | Prism Central pc.2023.3 で Marketplace を有効化してみる。 | o |
 | 347 | [2023/12/04](https://blog.ntnx.jp/entry/2023/12/04/235029) | Prism Central pc.2023.3 の MSP の様子を見てみる。 | o |
-| 346 | [2023/11/07](https://blog.ntnx.jp/entry/2023/11/07/194352) | Nutanix CE 2.0 に Prism Central pc.2023.3 をデプロイしてみる。 | o |
+| 346 | [2023/11/07](https://blog.ntnx.jp/entry/2023/11/07/194352) | Nutanix CE 2.0 に Prism Central pc.2023.3 をデプロイしてみる。 | x |
 | 345 | [2023/10/31](https://blog.ntnx.jp/entry/2023/10/31/034114) | Nutanix UVM の Description フィールドを Tag 欄として利用してみる。（Ansible） | o |
 | 344 | [2023/09/30](https://blog.ntnx.jp/entry/2023/09/30/212544) | NDB の Oracle Database パラメータ プロファイルに初期化パラメータを追加してみる。 | o |
 | 343 | [2023/08/24](https://blog.ntnx.jp/entry/2023/08/24/090623) | Nutanix DevStation から NDB を操作してみる。（Nutanix Meetup Hybrid 23.08） | o |
@@ -81,7 +81,7 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 335 | [2023/05/03](https://blog.ntnx.jp/entry/2023/05/03/154512) | Nutanix の NDB と Oracle Database。補足編（DB Server と DB の同時登録） | o |
 | 334 | [2023/04/22](https://blog.ntnx.jp/entry/2023/04/22/162504) | ESXi で Nested Nutanix CE VM を作成してみる。（PowerCLI 版） | o |
 | 333 | [2023/03/05](https://blog.ntnx.jp/entry/2023/03/05/210107) | Nutanix CE の SSL 証明書を入れ替えてみる。 | o |
-| 332 | [2023/03/04](https://blog.ntnx.jp/entry/2023/03/04/165057) | ESXi で Nested Nutanix CE を構成してみる。（CE 2.0 / AOS 6.5.2 AHV 版） | o |
+| 332 | [2023/03/04](https://blog.ntnx.jp/entry/2023/03/04/165057) | ESXi で Nested Nutanix CE を構成してみる。（CE 2.0 / AOS 6.5.2 AHV 版） | x |
 | 331 | [2023/02/28](https://blog.ntnx.jp/entry/2023/02/28/235802) | NDB で作成した Oracle Database の様子。（Single Instance DB Server VM - vDisk 編） | o |
 | 330 | [2023/02/12](https://blog.ntnx.jp/entry/2023/02/12/033354) | Nutanix AHV の仮想マシンで vDisk を独立管理する。（Volume Group 編） | o |
 | 329 | [2023/02/11](https://blog.ntnx.jp/entry/2023/02/11/235828) | Nutanix AHV の仮想マシンで vDisk を独立管理する。（Image Service 編） | o |
