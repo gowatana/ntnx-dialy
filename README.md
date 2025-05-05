@@ -1,10 +1,49 @@
 # NTNX＞日記、投稿一覧
 
-2024/09/30 までの投稿。  
+2025/05/05 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 447 | [2025/05/05](https://blog.ntnx.jp/entry/2025/05/05/203410) | Flow Virtual Networking オーバーレイ セグメントの仮想マシン間で通信確認してみる。（Linux） | o |
+| 446 | [2025/05/04](https://blog.ntnx.jp/entry/2025/05/04/170628) | Flow Virtual Networking のオーバーレイ セグメントに仮想マシンを作成してみる。（Static IP 設定） | o |
+| 445 | [2025/05/03](https://blog.ntnx.jp/entry/2025/05/03/234354) | Flow Virtual Networking のオーバーレイ セグメントを作成してみる。 | o |
+| 444 | [2025/04/30](https://blog.ntnx.jp/entry/2025/04/30/170443) | Prism Central の DNS リゾルバ設定の様子。（127.0.0.1） | o |
+| 443 | [2025/03/31](https://blog.ntnx.jp/entry/2025/03/31/200451) | Prism Central の終了できなくなったタスクを手動終了してみる。 | o |
+| 442 | [2025/02/23](https://blog.ntnx.jp/entry/2025/02/23/235515) | NCM Self-Service DSL をインストールしてみる。（Oracle Linux 9） | o |
+| 441 | [2025/01/22](https://blog.ntnx.jp/entry/2025/01/22/222511) | NCM Self-Service の呼吸（Nutanix Meetup Hybrid 25.01 登壇資料） | o |
+| 440 | [2024/12/25](https://blog.ntnx.jp/entry/2024/12/25/232647) | Self-Service で「単一の仮想マシンのブループリント」を作成してみる。Part-05：ブループリントの更新 | o |
+| 439 | [2024/12/24](https://blog.ntnx.jp/entry/2024/12/24/231702) | Self-Service で「単一の仮想マシンのブループリント」を作成してみる。Part-04：ブループリントの公開 | o |
+| 438 | [2024/12/23](https://blog.ntnx.jp/entry/2024/12/23/203408) | Self-Service で「単一の仮想マシンのブループリント」を作成してみる。Part-03：アプリの動作確認 | o |
+| 437 | [2024/12/23](https://blog.ntnx.jp/entry/2024/12/23/000635) | Nutanix Technology Champions 2025 に選ばれました。 | o |
+| 436 | [2024/12/22](https://blog.ntnx.jp/entry/2024/12/22/235812) | Self-Service で「単一の仮想マシンのブループリント」を作成してみる。Part-02：ブループリントの展開 | o |
+| 435 | [2024/12/22](https://blog.ntnx.jp/entry/2024/12/22/233514) | Self-Service で「単一の仮想マシンのブループリント」を作成してみる。Part-01：ブループリントの作成 | o |
+| 434 | [2024/12/20](https://blog.ntnx.jp/entry/2024/12/20/013637) | Nutanix Self-Service API でブループリントの情報を取得してみる。（export_file） | o |
+| 433 | [2024/12/19](https://blog.ntnx.jp/entry/2024/12/19/085900) | Self-Service：ブループリントをダウンロード → アップロードしてみる。 | o |
+| 432 | [2024/12/19](https://blog.ntnx.jp/entry/2024/12/19/001112) | Nutanix Self-Service API でブループリントの情報を取得してみる。 | o |
+| 431 | [2024/12/16](https://blog.ntnx.jp/entry/2024/12/16/235237) | Nutanix Self-Service API で Prism Central に接続してみる。（curl） | o |
+| 430 | [2024/12/15](https://blog.ntnx.jp/entry/2024/12/15/231147) | Nutanix Self-Service API Explorer をローカルで確認してみる。 | o |
+| 429 | [2024/12/14](https://blog.ntnx.jp/entry/2024/12/14/214438) | Self-Service：Prism Central の MSP で Self Service 関連 Pod のタイムアウトを調整してみる。 | o |
+| 428 | [2024/12/14](https://blog.ntnx.jp/entry/2024/12/14/212354) | Self-Service：ブループリントから展開する Linux VM の SSH パスワード認証を有効化してみる。 | o |
+| 427 | [2024/12/12](https://blog.ntnx.jp/entry/2024/12/12/233041) | Self-Service：Single VM ブループリントをカスタマイズしてみる。Part-02 補足：ブループリントの起動（ブループリントから展開） | o |
+| 426 | [2024/12/11](https://blog.ntnx.jp/entry/2024/12/11/085830) | Self-Service：Single VM ブループリントをカスタマイズしてみる。Part-03：マーケットプレイスでのアプリ展開 | o |
+| 425 | [2024/12/11](https://blog.ntnx.jp/entry/2024/12/11/014047) | Self-Service：Single VM ブループリントをカスタマイズしてみる。Part-02：マーケットプレイスへの公開 | o |
+| 424 | [2024/12/10](https://blog.ntnx.jp/entry/2024/12/10/204505) | Self-Service：Single VM ブループリントをカスタマイズしてみる。Part-01：ブループリントのカスタマイズ | o |
+| 423 | [2024/12/09](https://blog.ntnx.jp/entry/2024/12/09/031756) | Self-Service：マーケットプレイスからアプリを展開してみる。（Single VM） | o |
+| 422 | [2024/12/08](https://blog.ntnx.jp/entry/2024/12/08/210920) | Self-Service：マーケットプレイス マネージャーでブループリントを公開してみる。 | o |
+| 421 | [2024/12/07](https://blog.ntnx.jp/entry/2024/12/07/210032) | NCM Self-Service（旧 Nutanix Calm）投稿のまとめ | o |
+| 420 | [2024/12/06](https://blog.ntnx.jp/entry/2024/12/06/012505) | Self-Service：プロジェクトからアプリを削除してみる。 | o |
+| 419 | [2024/12/05](https://blog.ntnx.jp/entry/2024/12/05/003334) | Self-Service：展開したアプリの様子をプロジェクトで確認してみる。（マーケットプレイス マネージャー → Single VM） | o |
+| 418 | [2024/12/04](https://blog.ntnx.jp/entry/2024/12/04/090019) | Self-Service：アプリ展開による動作確認（マーケットプレイス マネージャー → Single VM） | o |
+| 417 | [2024/12/03](https://blog.ntnx.jp/entry/2024/12/03/001403) | Self-Service：プロジェクトに環境を追加してみる。 | o |
+| 416 | [2024/12/02](https://blog.ntnx.jp/entry/2024/12/02/011833) | Self-Service：プロジェクトにインフラストラクチャを追加してみる。 | o |
+| 415 | [2024/12/01](https://blog.ntnx.jp/entry/2024/12/01/215927) | Prism Central でプロジェクトを作成してみる。 | o |
+| 414 | [2024/11/27](https://blog.ntnx.jp/entry/2024/11/27/211902) | Nutanix Kubernetes Platform と Nutanix Enterprise AI（NAI）2.0 の様子。（Nutanix Meetup Hybrid 24.11 登壇資料） | o |
+| 413 | [2024/11/27](https://blog.ntnx.jp/entry/2024/11/27/202916) | Nutanix Kubernetes Platform の仕組み入門（登壇資料） | o |
+| 412 | [2024/11/24](https://blog.ntnx.jp/entry/2024/11/24/235752) | Prism Central の Identity Provider（IdP）として AD を登録してみる。 | o |
+| 411 | [2024/11/22](https://blog.ntnx.jp/entry/2024/11/22/022329) | Prism Central 2024.2 で Self Service を有効化してみる。 | o |
+| 410 | [2024/10/02](https://blog.ntnx.jp/entry/2024/10/02/194206) | NKP の Workload Cluster に Node Pool を追加してみる。（kubectl + YAML） | o |
+| 409 | [2024/10/02](https://blog.ntnx.jp/entry/2024/10/02/090211) | NKP の Workload Cluster に Node Pool を追加してみる。（nkp CLI） | o |
 | 408 | [2024/09/30](https://blog.ntnx.jp/entry/2024/09/30/234721) | Prism Central で Ubuntu 22.04 Cloud Image から VM を作成してみる。（Cloud-init） | o |
 | 407 | [2024/09/30](https://blog.ntnx.jp/entry/2024/09/30/190853) | Nutanix Volumes VG の Description を取得してみる。（curl） | o |
 | 406 | [2024/09/30](https://blog.ntnx.jp/entry/2024/09/30/085642) | Nutanix Kubernetes Platform（NKP）投稿のまとめ | o |
