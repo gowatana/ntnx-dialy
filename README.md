@@ -17,30 +17,30 @@ Status： x → もう古い。o → まだいける。空欄 → 未確認。
 | 474 | [2025/09/29](https://blog.ntnx.jp/entry/2025/09/29/030555) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-03：NKP クラスタの準備 | WIP |
 | 473 | [2025/09/28](https://blog.ntnx.jp/entry/2025/09/28/205540) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-02：作業用マシンの準備 | WIP |
 | 472 | [2025/09/27](https://blog.ntnx.jp/entry/2025/09/27/214929) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-01：前提インフラの準備 | WIP |
-| 471 | [2025/08/28](https://blog.ntnx.jp/entry/2025/08/28/095952) | Nutanix Enterprise AI の仕組み入門（登壇資料） |  |
-| 470 | [2025/07/31](https://blog.ntnx.jp/entry/2025/07/31/235735) | Nutanix AHV の Ubuntu 仮想マシンに NVIDIA GPU をパススルー接続してみる。 |  |
-| 469 | [2025/06/24](https://blog.ntnx.jp/entry/2025/06/24/040159) | Terraform の Nutanix Provider v2 を使用してみる。Part-02：仮想マシン作成の準備 |  |
-| 468 | [2025/06/17](https://blog.ntnx.jp/entry/2025/06/17/234758) | Flow Virtual Networking の Routed VPC を構成してみる。Part-02：Routed VPC 環境の作成（Terraform） |  |
-| 467 | [2025/06/17](https://blog.ntnx.jp/entry/2025/06/17/085107) | Flow Virtual Networking の Routed VPC を構成してみる。Part-01：Routed VPC 環境の作成 |  |
-| 466 | [2025/06/16](https://blog.ntnx.jp/entry/2025/06/16/022510) | Terraform で FVN の NAT VPC を構成してみる。Part-06：VPC ～ 仮想マシンの作成（Module 化） |  |
-| 465 | [2025/06/15](https://blog.ntnx.jp/entry/2025/06/15/222615) | Nutanix Flow Virtual Networking（FVN）投稿のまとめ |  |
-| 464 | [2025/06/15](https://blog.ntnx.jp/entry/2025/06/15/221729) | Terraform で FVN の NAT VPC を構成してみる。Part-05：セグメントと仮想マシンの作成（Module 化） |  |
-| 463 | [2025/06/14](https://blog.ntnx.jp/entry/2025/06/14/221256) | Terraform で FVN の NAT VPC を構成してみる。Part-04：VPC と仮想マシンの作成（tf ファイル分割） |  |
-| 462 | [2025/06/11](https://blog.ntnx.jp/entry/2025/06/11/235323) | Terraform で FVN の Overlay サブネットを作成してみる。Part-04：VPC & サブネット & 仮想マシンの作成 |  |
-| 461 | [2025/06/10](https://blog.ntnx.jp/entry/2025/06/10/234105) | Terraform で FVN の Overlay サブネットを作成してみる。Part-03：サブネットと仮想マシンの追加 |  |
-| 460 | [2025/06/08](https://blog.ntnx.jp/entry/2025/06/08/164232) | Flow Virtual Networking の Overlay サブネットを作成してみる。Part-04：サブネット間の通信確認 |  |
-| 459 | [2025/05/24](https://blog.ntnx.jp/entry/2025/05/24/212258) | Flow Virtual Networking の Load Balancer Session を作成してみる。 |  |
-| 458 | [2025/05/22](https://blog.ntnx.jp/entry/2025/05/22/235926) | Terraform で FVN の NAT VPC を構成してみる。Part-03：VPC と仮想マシンの作成（tf ファイル集約） |  |
-| 457 | [2025/05/22](https://blog.ntnx.jp/entry/2025/05/22/205231) | Nutanix CE の配置パターンについて（登壇資料） |  |
-| 456 | [2025/05/21](https://blog.ntnx.jp/entry/2025/05/21/234610) | Terraform の Nutanix Provider v2 を使用してみる。Part-03：仮想マシンの作成 |  |
-| 455 | [2025/05/20](https://blog.ntnx.jp/entry/2025/05/20/212429) | Terraform で FVN の NAT VPC を構成してみる。Part-02：仮想マシンと Floating IP の作成 |  |
-| 454 | [2025/05/17](https://blog.ntnx.jp/entry/2025/05/17/234906) | Terraform で FVN の NAT VPC を構成してみる。Part-01：NAT VPC 環境の作成 |  |
-| 453 | [2025/05/16](https://blog.ntnx.jp/entry/2025/05/16/235814) | Terraform で FVN の Overlay サブネットを作成してみる。Part-02：仮想マシンの作成 |  |
-| 452 | [2025/05/13](https://blog.ntnx.jp/entry/2025/05/13/234218) | Terraform で FVN の Overlay サブネットを作成してみる。Part-01：VPC & サブネットの作成 |  |
-| 451 | [2025/05/12](https://blog.ntnx.jp/entry/2025/05/12/025114) | Terraform の Nutanix Provider v2 を使用してみる。Part-01：接続確認 |  |
-| 450 | [2025/05/11](https://blog.ntnx.jp/entry/2025/05/11/232056) | Flow Virtual Networking の Overlay サブネットと VPC を削除してみる。 |  |
-| 449 | [2025/05/07](https://blog.ntnx.jp/entry/2025/05/07/235236) | Flow Virtual Networking の NAT VPC を構成してみる。Part-02：Floating IP アドレスの割り当て |  |
-| 448 | [2025/05/06](https://blog.ntnx.jp/entry/2025/05/06/211410) | Flow Virtual Networking の NAT VPC を構成してみる。Part-01：NAT VPC 環境の作成 |  |
+| 471 | [2025/08/28](https://blog.ntnx.jp/entry/2025/08/28/095952) | Nutanix Enterprise AI の仕組み入門（登壇資料） | o |
+| 470 | [2025/07/31](https://blog.ntnx.jp/entry/2025/07/31/235735) | Nutanix AHV の Ubuntu 仮想マシンに NVIDIA GPU をパススルー接続してみる。 | o |
+| 469 | [2025/06/24](https://blog.ntnx.jp/entry/2025/06/24/040159) | Terraform の Nutanix Provider v2 を使用してみる。Part-02：仮想マシン作成の準備 | o |
+| 468 | [2025/06/17](https://blog.ntnx.jp/entry/2025/06/17/234758) | Flow Virtual Networking の Routed VPC を構成してみる。Part-02：Routed VPC 環境の作成（Terraform） | o |
+| 467 | [2025/06/17](https://blog.ntnx.jp/entry/2025/06/17/085107) | Flow Virtual Networking の Routed VPC を構成してみる。Part-01：Routed VPC 環境の作成 | o |
+| 466 | [2025/06/16](https://blog.ntnx.jp/entry/2025/06/16/022510) | Terraform で FVN の NAT VPC を構成してみる。Part-06：VPC ～ 仮想マシンの作成（Module 化） | o |
+| 465 | [2025/06/15](https://blog.ntnx.jp/entry/2025/06/15/222615) | Nutanix Flow Virtual Networking（FVN）投稿のまとめ | o |
+| 464 | [2025/06/15](https://blog.ntnx.jp/entry/2025/06/15/221729) | Terraform で FVN の NAT VPC を構成してみる。Part-05：セグメントと仮想マシンの作成（Module 化） | o |
+| 463 | [2025/06/14](https://blog.ntnx.jp/entry/2025/06/14/221256) | Terraform で FVN の NAT VPC を構成してみる。Part-04：VPC と仮想マシンの作成（tf ファイル分割） | o |
+| 462 | [2025/06/11](https://blog.ntnx.jp/entry/2025/06/11/235323) | Terraform で FVN の Overlay サブネットを作成してみる。Part-04：VPC & サブネット & 仮想マシンの作成 | o |
+| 461 | [2025/06/10](https://blog.ntnx.jp/entry/2025/06/10/234105) | Terraform で FVN の Overlay サブネットを作成してみる。Part-03：サブネットと仮想マシンの追加 | o |
+| 460 | [2025/06/08](https://blog.ntnx.jp/entry/2025/06/08/164232) | Flow Virtual Networking の Overlay サブネットを作成してみる。Part-04：サブネット間の通信確認 | o |
+| 459 | [2025/05/24](https://blog.ntnx.jp/entry/2025/05/24/212258) | Flow Virtual Networking の Load Balancer Session を作成してみる。 | o |
+| 458 | [2025/05/22](https://blog.ntnx.jp/entry/2025/05/22/235926) | Terraform で FVN の NAT VPC を構成してみる。Part-03：VPC と仮想マシンの作成（tf ファイル集約） | o |
+| 457 | [2025/05/22](https://blog.ntnx.jp/entry/2025/05/22/205231) | Nutanix CE の配置パターンについて（登壇資料） | o |
+| 456 | [2025/05/21](https://blog.ntnx.jp/entry/2025/05/21/234610) | Terraform の Nutanix Provider v2 を使用してみる。Part-03：仮想マシンの作成 | o |
+| 455 | [2025/05/20](https://blog.ntnx.jp/entry/2025/05/20/212429) | Terraform で FVN の NAT VPC を構成してみる。Part-02：仮想マシンと Floating IP の作成 | o |
+| 454 | [2025/05/17](https://blog.ntnx.jp/entry/2025/05/17/234906) | Terraform で FVN の NAT VPC を構成してみる。Part-01：NAT VPC 環境の作成 | o |
+| 453 | [2025/05/16](https://blog.ntnx.jp/entry/2025/05/16/235814) | Terraform で FVN の Overlay サブネットを作成してみる。Part-02：仮想マシンの作成 | o |
+| 452 | [2025/05/13](https://blog.ntnx.jp/entry/2025/05/13/234218) | Terraform で FVN の Overlay サブネットを作成してみる。Part-01：VPC & サブネットの作成 | o |
+| 451 | [2025/05/12](https://blog.ntnx.jp/entry/2025/05/12/025114) | Terraform の Nutanix Provider v2 を使用してみる。Part-01：接続確認 | o |
+| 450 | [2025/05/11](https://blog.ntnx.jp/entry/2025/05/11/232056) | Flow Virtual Networking の Overlay サブネットと VPC を削除してみる。 | o |
+| 449 | [2025/05/07](https://blog.ntnx.jp/entry/2025/05/07/235236) | Flow Virtual Networking の NAT VPC を構成してみる。Part-02：Floating IP アドレスの割り当て | o |
+| 448 | [2025/05/06](https://blog.ntnx.jp/entry/2025/05/06/211410) | Flow Virtual Networking の NAT VPC を構成してみる。Part-01：NAT VPC 環境の作成 | o |
 | 447 | [2025/05/05](https://blog.ntnx.jp/entry/2025/05/05/203410) | Flow Virtual Networking の Overlay サブネットを作成してみる。Part-03：サブネット内での通信確認 | o |
 | 446 | [2025/05/04](https://blog.ntnx.jp/entry/2025/05/04/170628) | Flow Virtual Networking の Overlay サブネットを作成してみる。Part-02：仮想マシンの作成（Static IP 設定） | o |
 | 445 | [2025/05/03](https://blog.ntnx.jp/entry/2025/05/03/234354) | Flow Virtual Networking の Overlay サブネットを作成してみる。Part-01：VPC & サブネットの作成 | o |
