@@ -1,24 +1,39 @@
 # NTNX＞日記、投稿一覧
 
-2025/10/26 までの投稿。  
+2026/04/06 までの投稿。  
 Status： x → もう古い。o → まだいける。空欄 → 未確認。
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 500 | [2026/04/06](https://blog.ntnx.jp/entry/2026/04/06/190340) | Nutanix Enterprise AI 2.6 をデプロイしてみる。Part-07：NAI のインストール | WIP |
+| 499 | [2026/04/06](https://blog.ntnx.jp/entry/2026/04/06/184906) | Nutanix Enterprise AI 2.6 をデプロイしてみる。Part-06：要件ソフトウェアのインストール | WIP |
+| 498 | [2026/04/06](https://blog.ntnx.jp/entry/2026/04/06/023323) | Nutanix Enterprise AI 2.6 をデプロイしてみる。Part-05：NKP 管理クラスタへのライセンス キー追加 | WIP |
+| 497 | [2026/04/05](https://blog.ntnx.jp/entry/2026/04/05/213832) | Nutanix Enterprise AI 2.6 をデプロイしてみる。Part-04：NFS サーバーと Storage Class の準備 | WIP |
+| 496 | [2026/04/03](https://blog.ntnx.jp/entry/2026/04/03/225307) | Nutanix Enterprise AI 2.6 をデプロイしてみる。Part-03：NKP 管理クラスタの展開 | WIP |
+| 495 | [2026/04/03](https://blog.ntnx.jp/entry/2026/04/03/010316) | Nutanix Enterprise AI 2.6 をデプロイしてみる。Part-02：作業用マシンの準備 | WIP |
+| 494 | [2026/04/02](https://blog.ntnx.jp/entry/2026/04/02/223001) | Nutanix Enterprise AI 2.6 をデプロイしてみる。Part-01：前提インフラの準備 | WIP |
+| 493 | [2026/03/16](https://blog.ntnx.jp/entry/2026/03/16/235035) | NKP クラスタの GPU ノードで GPU Pod むけスケジューリング調整を設定してみる。 | o |
+| 492 | [2026/02/28](https://blog.ntnx.jp/entry/2026/02/28/222018) | Nutanix Volumes VG の Description を v4 API で取得してみる。 | o |
+| 491 | [2026/01/16](https://blog.ntnx.jp/entry/2026/01/16/235720) | Nutanix Data Services for Kubernetes（NDK）でアプリをバックアップ / リストアしてみる。（登壇資料 編） | o |
+| 490 | [2026/01/05](https://blog.ntnx.jp/entry/2026/01/05/033245) | NKP クラスタで Nutanix CSI Driver をバージョンアップしてみる。（検証むけ） | o |
+| 489 | [2025/12/24](https://blog.ntnx.jp/entry/2025/12/24/234625) | Nutanix Technology Champions 2026 に選ばれました。 | o |
+| 488 | [2025/12/10](https://blog.ntnx.jp/entry/2025/12/10/232435) | Nutanix Data Services for Kubernetes（NDK）でアプリをバックアップ / リストアしてみる。 | o |
+| 487 | [2025/12/10](https://blog.ntnx.jp/entry/2025/12/10/125236) | Nutanix Kubernetes Platform（NKP）カタログにカスタム アプリケーションを登録してみる。投稿のまとめ | o |
+| 486 | [2025/11/30](https://blog.ntnx.jp/entry/2025/11/30/191504) | Nutanix Kubernetes Platform（NKP）の Nutanix Image Builder で OS イメージを作成してみる。 | o |
 | 485 | [2025/10/26](https://blog.ntnx.jp/entry/2025/10/26/235138) | Nutanix Enterprise AI（NAI）投稿のまとめ | o |
-| 484 | [2025/10/25](https://blog.ntnx.jp/entry/2025/10/25/230516) | NKP のカタログからカスタム アプリケーションを削除してみる。 | WIP |
-| 483 | [2025/10/24](https://blog.ntnx.jp/entry/2025/10/24/212544) | NAI 2.4 の推論エンドポイントむけデモ アプリを NKP のカタログに登録してみる。 | WIP |
-| 482 | [2025/10/15](https://blog.ntnx.jp/entry/2025/10/15/233317) | NAI 2.4 の推論エンドポイントむけデモ アプリを NKP で起動してみる。 | WIP |
-| 481 | [2025/10/13](https://blog.ntnx.jp/entry/2025/10/13/235604) | NAI 2.4 の推論エンドポイントを利用するデモ アプリを作成してみる。 | WIP |
-| 480 | [2025/10/12](https://blog.ntnx.jp/entry/2025/10/12/230935) | Nutanix Kubernetes Platform と Application の関係について（仮）登壇資料 | WIP |
-| 479 | [2025/10/05](https://blog.ntnx.jp/entry/2025/10/05/232747) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-08：NVIDIA NIM の利用 | WIP |
-| 478 | [2025/10/04](https://blog.ntnx.jp/entry/2025/10/04/034415) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-07：NAI-UI でのエンドポイント作成 | WIP |
-| 477 | [2025/10/03](https://blog.ntnx.jp/entry/2025/10/03/235542) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-06：NAI-UI でのモデル ダウンロード | WIP |
-| 476 | [2025/09/30](https://blog.ntnx.jp/entry/2025/09/30/020701) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-05：NAI（nai-core）のインストール | WIP |
-| 475 | [2025/09/30](https://blog.ntnx.jp/entry/2025/09/30/011151) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-04：要件ソフトウェアのインストール | WIP |
-| 474 | [2025/09/29](https://blog.ntnx.jp/entry/2025/09/29/030555) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-03：NKP クラスタの準備 | WIP |
-| 473 | [2025/09/28](https://blog.ntnx.jp/entry/2025/09/28/205540) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-02：作業用マシンの準備 | WIP |
-| 472 | [2025/09/27](https://blog.ntnx.jp/entry/2025/09/27/214929) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-01：前提インフラの準備 | WIP |
+| 484 | [2025/10/25](https://blog.ntnx.jp/entry/2025/10/25/230516) | NKP のカタログからカスタム アプリケーションを削除してみる。 | o |
+| 483 | [2025/10/24](https://blog.ntnx.jp/entry/2025/10/24/212544) | NAI 2.4 の推論エンドポイントむけデモ アプリを NKP のカタログに登録してみる。 | o |
+| 482 | [2025/10/15](https://blog.ntnx.jp/entry/2025/10/15/233317) | NAI 2.4 の推論エンドポイントむけデモ アプリを NKP で起動してみる。 | o |
+| 481 | [2025/10/13](https://blog.ntnx.jp/entry/2025/10/13/235604) | NAI 2.4 の推論エンドポイントを利用するデモ アプリを作成してみる。 | o |
+| 480 | [2025/10/12](https://blog.ntnx.jp/entry/2025/10/12/230935) | Nutanix Kubernetes Platform と Application の関係について（仮）登壇資料 | o |
+| 479 | [2025/10/05](https://blog.ntnx.jp/entry/2025/10/05/232747) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-08：NVIDIA NIM の利用 | o |
+| 478 | [2025/10/04](https://blog.ntnx.jp/entry/2025/10/04/034415) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-07：NAI-UI でのエンドポイント作成 | o |
+| 477 | [2025/10/03](https://blog.ntnx.jp/entry/2025/10/03/235542) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-06：NAI-UI でのモデル ダウンロード | o |
+| 476 | [2025/09/30](https://blog.ntnx.jp/entry/2025/09/30/020701) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-05：NAI（nai-core）のインストール | o |
+| 475 | [2025/09/30](https://blog.ntnx.jp/entry/2025/09/30/011151) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-04：要件ソフトウェアのインストール | o |
+| 474 | [2025/09/29](https://blog.ntnx.jp/entry/2025/09/29/030555) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-03：NKP クラスタの準備 | o |
+| 473 | [2025/09/28](https://blog.ntnx.jp/entry/2025/09/28/205540) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-02：作業用マシンの準備 | o |
+| 472 | [2025/09/27](https://blog.ntnx.jp/entry/2025/09/27/214929) | Nutanix Enterprise AI 2.4 をデプロイしてみる。Part-01：前提インフラの準備 | o |
 | 471 | [2025/08/28](https://blog.ntnx.jp/entry/2025/08/28/095952) | Nutanix Enterprise AI の仕組み入門（登壇資料） | o |
 | 470 | [2025/07/31](https://blog.ntnx.jp/entry/2025/07/31/235735) | Nutanix AHV の Ubuntu 仮想マシンに NVIDIA GPU をパススルー接続してみる。 | o |
 | 469 | [2025/06/24](https://blog.ntnx.jp/entry/2025/06/24/040159) | Terraform の Nutanix Provider v2 を使用してみる。Part-02：仮想マシン作成の準備 | o |
